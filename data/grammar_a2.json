@@ -1,0 +1,159 @@
+[
+  {
+    "baslik": "Perfekt (Konuşma Dili Geçmiş Zamanı)",
+    "aciklama": "Günlük konuşmada geçmişi anlatmak için en çok Perfekt kullanılır. Yapısı: haben/sein (kişiye göre çekilmiş) + Partizip II (fiilin geçmiş ortacı, cümle sonunda).",
+    "tablo": [
+      ["ge + kök + t (düzenli)", "gemacht, gelernt, gekauft"],
+      ["ge + kök + en (düzensiz)", "gegangen, gekommen, gesehen"],
+      ["haben ile", "çoğu fiil: Ich habe gegessen."],
+      ["sein ile", "hareket/durum değişimi fiilleri: Ich bin gegangen."]
+    ],
+    "notlar": [
+      "sein, bleiben, werden gibi fiiller ve gehen, fahren, kommen gibi yer değiştirme fiilleri 'sein' ile çekilir.",
+      "-ieren ile biten fiillerde 'ge-' öneki alınmaz: studiert, telefoniert."
+    ],
+    "ornekler": [
+      {"de": "Ich habe gestern Deutsch gelernt.", "tr": "Dün Almanca öğrendim (çalıştım)."},
+      {"de": "Wir sind nach Berlin gefahren.", "tr": "Berlin'e gittik."}
+    ]
+  },
+  {
+    "baslik": "Präteritum (sein, haben, Modal Fiiller)",
+    "aciklama": "Yazı dilinde ve bazı sık kullanılan fiillerde (özellikle sein, haben ve modal fiiller) konuşma dilinde bile Präteritum tercih edilir.",
+    "tablo": [
+      ["ich war / ich hatte", "-dim / -di vardı"],
+      ["ich konnte / ich musste", "yapabiliyordum / yapmak zorundaydım"],
+      ["ich wollte / ich durfte", "istiyordum / izinliydim"]
+    ],
+    "notlar": [
+      "Roman, haber, hikaye gibi yazılı metinlerde diğer fiiller de genelde Präteritum ile çekilir."
+    ],
+    "ornekler": [
+      {"de": "Ich hatte gestern keine Zeit.", "tr": "Dün vaktim yoktu."},
+      {"de": "Sie war sehr müde.", "tr": "O çok yorgundu."}
+    ]
+  },
+  {
+    "baslik": "Dativ (Yönelme Hali)",
+    "aciklama": "'kime/neye' sorusuna cevap verir, genelde dolaylı nesneyi belirtir. Artikeller Dativ'de değişir.",
+    "tablo": [
+      ["der -> dem", "mit dem Mann"], ["die -> der", "mit der Frau"],
+      ["das -> dem", "mit dem Kind"], ["die (çoğul) -> den + n", "mit den Kindern"],
+      ["ein -> einem", "einer -> einer"]
+    ],
+    "notlar": [
+      "Dativ isteyen bazı sık edatlar: mit, nach, bei, seit, von, zu, aus.",
+      "helfen, danken, gefallen gibi fiiller Dativ nesne ister: Ich helfe dir."
+    ],
+    "ornekler": [
+      {"de": "Ich gebe dem Kind ein Buch.", "tr": "Çocuğa bir kitap veriyorum."}
+    ]
+  },
+  {
+    "baslik": "İki Hal Alan Edatlar (Wechselpräpositionen)",
+    "aciklama": "in, an, auf, über, unter, vor, hinter, neben, zwischen edatları -hareket varsa Akkusativ, durum/konum bildiriyorsa Dativ- alır.",
+    "tablo": [
+      ["Wohin? (nereye) -> Akkusativ", "Ich gehe in die Küche."],
+      ["Wo? (nerede) -> Dativ", "Ich bin in der Küche."]
+    ],
+    "notlar": [
+      "Kural basit: hareket/yön varsa Akkusativ, sabit konum varsa Dativ sorulur."
+    ],
+    "ornekler": [
+      {"de": "Das Buch liegt auf dem Tisch.", "tr": "Kitap masanın üzerinde duruyor. (konum-Dativ)"},
+      {"de": "Ich lege das Buch auf den Tisch.", "tr": "Kitabı masanın üzerine koyuyorum. (hareket-Akkusativ)"}
+    ]
+  },
+  {
+    "baslik": "Bağlaçlar: weil, dass, wenn",
+    "aciklama": "Bu bağlaçlar yan cümle kurar ve yan cümlede çekimli fiil cümlenin en sonuna gider (fiil sona kuralı).",
+    "tablo": [
+      ["weil", "çünkü - Ich bleibe zu Hause, weil ich krank bin."],
+      ["dass", "-diğini - Ich weiß, dass du müde bist."],
+      ["wenn", "-diğinde / eğer - Wenn es regnet, bleibe ich zu Hause."]
+    ],
+    "notlar": [
+      "Ana cümledeki fiil normal yerinde (2. sırada) kalır, sadece yan cümlede fiil sona gider."
+    ],
+    "ornekler": [
+      {"de": "Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.", "tr": "Almanca öğreniyorum çünkü Almanya'da çalışmak istiyorum."}
+    ]
+  },
+  {
+    "baslik": "Karşılaştırma: Komparativ ve Superlativ",
+    "aciklama": "Sıfatların karşılaştırma ve en üstünlük dereceleri Türkçedeki '-den daha' ve 'en' yapılarına karşılık gelir.",
+    "tablo": [
+      ["Positiv", "schnell (hızlı)"],
+      ["Komparativ (+er)", "schneller (daha hızlı)"],
+      ["Superlativ (am +sten)", "am schnellsten (en hızlı)"]
+    ],
+    "notlar": [
+      "Bazı sıfatlar düzensizdir: gut - besser - am besten; viel - mehr - am meisten.",
+      "Karşılaştırma yaparken 'als' kullanılır: Er ist größer als ich."
+    ],
+    "ornekler": [
+      {"de": "Berlin ist größer als München.", "tr": "Berlin, Münih'ten daha büyük."}
+    ]
+  },
+  {
+    "baslik": "Ayrılabilir Fiiller (Trennbare Verben)",
+    "aciklama": "Bazı fiillerin önekleri, düz cümlede fiilden ayrılıp cümlenin en sonuna gider. Sık öneki: an-, auf-, aus-, mit-, zurück-, ein-",
+    "tablo": [
+      ["aufstehen", "kalkmak - Ich stehe um sieben Uhr auf."],
+      ["einkaufen", "alışveriş yapmak - Wir kaufen im Supermarkt ein."],
+      ["anrufen", "aramak (telefonla) - Ruf mich bitte an!"]
+    ],
+    "notlar": [
+      "Perfekt'te 'ge-' eki önek ile kök arasına girer: aufgestanden, eingekauft."
+    ],
+    "ornekler": [
+      {"de": "Der Zug kommt um acht Uhr an.", "tr": "Tren saat sekizde varıyor."}
+    ]
+  },
+  {
+    "baslik": "Emir Kipi (Imperativ)",
+    "aciklama": "Rica, öneri veya emir bildirmek için kullanılır; du, ihr ve Sie hallerine göre farklı biçimlenir.",
+    "tablo": [
+      ["du için", "Komm! / Lern Deutsch! (fiil kökü, çoğu zaman -e düşer)"],
+      ["ihr için", "Kommt! / Lernt Deutsch!"],
+      ["Sie için", "Kommen Sie! / Lernen Sie Deutsch! (mastar + Sie)"]
+    ],
+    "notlar": [
+      "'sein' fiili düzensizdir: Sei ruhig! / Seid ruhig! / Seien Sie ruhig!"
+    ],
+    "ornekler": [
+      {"de": "Machen Sie bitte das Fenster zu!", "tr": "Lütfen pencereyi kapatın!"}
+    ]
+  },
+  {
+    "baslik": "Refleksif Fiiller",
+    "aciklama": "Eylemin özneye geri döndüğü fiillerdir; 'sich' zamiri kişiye göre çekilir (mich, dich, sich, uns, euch, sich).",
+    "tablo": [
+      ["sich freuen", "sevinmek - Ich freue mich."],
+      ["sich waschen", "yıkanmak - Du wäschst dich."],
+      ["sich erinnern", "hatırlamak - Er erinnert sich."]
+    ],
+    "notlar": [
+      "Refleksif zamir genelde çekimli fiilden hemen sonra gelir."
+    ],
+    "ornekler": [
+      {"de": "Ich freue mich auf den Urlaub.", "tr": "Tatili dört gözle bekliyorum."}
+    ]
+  },
+  {
+    "baslik": "Basit Sıfat Çekimi (Adjektivdeklination)",
+    "aciklama": "İsimden önce gelen sıfatlar, artikelin türüne ve ismin haline göre çekim eki alır. A2 seviyesinde en sık karşılaşılan 'belirli artikelli' çekim örnektir.",
+    "tablo": [
+      ["der + sıfat+e", "der neue Tisch (Nominativ)"],
+      ["die + sıfat+e", "die neue Wohnung"],
+      ["das + sıfat+e", "das neue Auto"],
+      ["den + sıfat+en", "Ich sehe den neuen Tisch (Akkusativ)"]
+    ],
+    "notlar": [
+      "Bu konu ileri seviyede derinleşir; A2'de temel örüntüyü tanımak yeterlidir."
+    ],
+    "ornekler": [
+      {"de": "Das ist die schöne Stadt.", "tr": "Bu güzel şehir."}
+    ]
+  }
+]

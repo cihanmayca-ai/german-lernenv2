@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Almanca Pasaportu — A1'den A2'ye</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<main>
+  <section class="passport-hero">
+    <div class="stamps-row">
+      <div class="stamp" id="stamp-a1">
+        <span class="stamp-level">A1</span>
+        <span class="stamp-label">seviye</span>
+      </div>
+      <div class="stamp blue locked" id="stamp-a2">
+        <span class="stamp-level">A2</span>
+        <span class="stamp-label">seviye</span>
+      </div>
+    </div>
+    <div class="hero-text">
+      <h1>Almanca öğrenme pasaportunuz</h1>
+      <p>Kelime, gramer ve quiz modüllerini tamamladıkça damgalarınızı toplayın. Her ikinizin de ilerlemesi bu tarayıcıda ayrı ayrı saklanır — aynı siteyi farklı cihazlardan da açabilirsiniz.</p>
+      <div id="overall-status" style="margin-top:16px; font-family:'IBM Plex Mono',monospace; font-size:13px; color:var(--ink-soft);"></div>
+    </div>
+  </section>
+
+  <div class="page-head">
+    <span class="eyebrow">Modüller</span>
+    <h1>Nereden devam etmek istersiniz?</h1>
+  </div>
+
+  <div class="module-grid">
+    <a class="module-card" href="study.html">
+      <div class="module-icon">🃏</div>
+      <h3>Kelime Çalış</h3>
+      <p>Kart şeklinde Almanca-Türkçe kelime çalışın, öğrendiklerinizi işaretleyin.</p>
+      <div class="module-meta">A1 · 337 kelime · A2 · 223 kelime</div>
+    </a>
+    <a class="module-card" href="vocab.html">
+      <div class="module-icon">✍️</div>
+      <h3>Kelime Testi</h3>
+      <p>Almanca kelimeyi görün, Türkçe karşılığını yazın. İsterseniz sadece çalıştığınız kelimelerle test olun.</p>
+      <div class="module-meta" id="meta-vocab">A1 · 337 kelime · A2 · 223 kelime</div>
+    </a>
+    <a class="module-card" href="grammar.html">
+      <div class="module-icon">📖</div>
+      <h3>Gramer Altyapısı</h3>
+      <p>A1'den A2'ye, kısa açıklamalar ve örneklerle temel Almanca gramer konuları.</p>
+      <div class="module-meta">10 + 10 konu</div>
+    </a>
+    <a class="module-card" href="quiz.html">
+      <div class="module-icon">✅</div>
+      <h3>Sınav Formatı Quiz</h3>
+      <p>Çıkmış soru formatında hazırlanmış pratik sorularla kendinizi test edin.</p>
+      <div class="module-meta" id="meta-quiz">En iyi skor: —</div>
+    </a>
+  </div>
+</main>
+
+<footer id="site-footer"></footer>
+
+<script src="js/app.js"></script>
+<script>
+  function pct(n, d) { return d ? Math.round((n / d) * 100) : 0; }
+
+  function refreshDashboard() {
+    const p = getProgress();
+    const a1Done = p.quiz.a1.bestScore >= 80;
+    const a2Done = p.quiz.a2.bestScore >= 80;
+
+    document.getElementById("stamp-a1").classList.toggle("locked", !a1Done);
+    document.getElementById("stamp-a2").classList.toggle("locked", !a2Done);
+
+    const vocabA1Pct = pct(p.vocab.a1.correct, p.vocab.a1.total);
+    const vocabA2Pct = pct(p.vocab.a2.correct, p.vocab.a2.total);
+    const quizA1 = p.quiz.a1.bestScore;
+    const quizA2 = p.quiz.a2.bestScore;
+
+    document.getElementById("overall-status").innerHTML =
+      `A1 quiz en iyi skor: <strong style="color:var(--ink)">%${quizA1}</strong> &nbsp;·&nbsp; A2 quiz en iyi skor: <strong style="color:var(--ink)">%${quizA2}</strong><br>` +
+      `Bir seviyeyi "tamamlandı" saymak için quizde %80 ve üzeri skor hedefleyin.`;
+
+    document.getElementById("meta-quiz").textContent =
+      `A1: %${quizA1} · A2: %${quizA2}`;
+  }
+
+  refreshDashboard();
+</script>
+</body>
+</html>

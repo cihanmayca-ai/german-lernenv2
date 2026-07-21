@@ -1,0 +1,2024 @@
+[
+  {
+    "de": "der Mann",
+    "tr": "adam",
+    "kategori": "İnsanlar",
+    "id": "a1-001"
+  },
+  {
+    "de": "die Frau",
+    "tr": "kadın",
+    "kategori": "İnsanlar",
+    "id": "a1-002"
+  },
+  {
+    "de": "das Kind",
+    "tr": "çocuk",
+    "kategori": "İnsanlar",
+    "id": "a1-003"
+  },
+  {
+    "de": "der Junge",
+    "tr": "erkek çocuk",
+    "kategori": "İnsanlar",
+    "id": "a1-004"
+  },
+  {
+    "de": "das Mädchen",
+    "tr": "kız çocuk",
+    "kategori": "İnsanlar",
+    "id": "a1-005"
+  },
+  {
+    "de": "die Familie",
+    "tr": "aile",
+    "kategori": "İnsanlar",
+    "id": "a1-006"
+  },
+  {
+    "de": "der Vater",
+    "tr": "baba",
+    "kategori": "Aile",
+    "id": "a1-007"
+  },
+  {
+    "de": "die Mutter",
+    "tr": "anne",
+    "kategori": "Aile",
+    "id": "a1-008"
+  },
+  {
+    "de": "der Bruder",
+    "tr": "erkek kardeş",
+    "kategori": "Aile",
+    "id": "a1-009"
+  },
+  {
+    "de": "die Schwester",
+    "tr": "kız kardeş",
+    "kategori": "Aile",
+    "id": "a1-010"
+  },
+  {
+    "de": "der Sohn",
+    "tr": "oğul",
+    "kategori": "Aile",
+    "id": "a1-011"
+  },
+  {
+    "de": "die Tochter",
+    "tr": "kız evlat",
+    "kategori": "Aile",
+    "id": "a1-012"
+  },
+  {
+    "de": "der Freund",
+    "tr": "erkek arkadaş",
+    "kategori": "Aile",
+    "id": "a1-013"
+  },
+  {
+    "de": "die Freundin",
+    "tr": "kız arkadaş",
+    "kategori": "Aile",
+    "id": "a1-014"
+  },
+  {
+    "de": "die Großmutter",
+    "tr": "büyükanne",
+    "kategori": "Aile",
+    "id": "a1-015"
+  },
+  {
+    "de": "der Großvater",
+    "tr": "büyükbaba",
+    "kategori": "Aile",
+    "id": "a1-016"
+  },
+  {
+    "de": "die Tante",
+    "tr": "teyze/hala",
+    "kategori": "Aile",
+    "id": "a1-017"
+  },
+  {
+    "de": "der Onkel",
+    "tr": "amca/dayı",
+    "kategori": "Aile",
+    "id": "a1-018"
+  },
+  {
+    "de": "der Cousin",
+    "tr": "erkek kuzen",
+    "kategori": "Aile",
+    "id": "a1-019"
+  },
+  {
+    "de": "die Cousine",
+    "tr": "kız kuzen",
+    "kategori": "Aile",
+    "id": "a1-020"
+  },
+  {
+    "de": "die Eltern",
+    "tr": "ebeveynler",
+    "kategori": "Aile",
+    "id": "a1-021"
+  },
+  {
+    "de": "die Geschwister",
+    "tr": "kardeşler",
+    "kategori": "Aile",
+    "id": "a1-022"
+  },
+  {
+    "de": "der Ehemann",
+    "tr": "eş (erkek)",
+    "kategori": "Aile",
+    "id": "a1-023"
+  },
+  {
+    "de": "die Ehefrau",
+    "tr": "eş (kadın)",
+    "kategori": "Aile",
+    "id": "a1-024"
+  },
+  {
+    "de": "der Name",
+    "tr": "isim",
+    "kategori": "Temel",
+    "id": "a1-025"
+  },
+  {
+    "de": "das Jahr",
+    "tr": "yıl",
+    "kategori": "Temel",
+    "id": "a1-026"
+  },
+  {
+    "de": "der Tag",
+    "tr": "gün",
+    "kategori": "Zaman",
+    "id": "a1-027"
+  },
+  {
+    "de": "die Woche",
+    "tr": "hafta",
+    "kategori": "Zaman",
+    "id": "a1-028"
+  },
+  {
+    "de": "der Monat",
+    "tr": "ay",
+    "kategori": "Zaman",
+    "id": "a1-029"
+  },
+  {
+    "de": "die Stunde",
+    "tr": "saat (süre)",
+    "kategori": "Zaman",
+    "id": "a1-030"
+  },
+  {
+    "de": "die Minute",
+    "tr": "dakika",
+    "kategori": "Zaman",
+    "id": "a1-031"
+  },
+  {
+    "de": "heute",
+    "tr": "bugün",
+    "kategori": "Zaman",
+    "id": "a1-032"
+  },
+  {
+    "de": "morgen",
+    "tr": "yarın",
+    "kategori": "Zaman",
+    "id": "a1-033"
+  },
+  {
+    "de": "gestern",
+    "tr": "dün",
+    "kategori": "Zaman",
+    "id": "a1-034"
+  },
+  {
+    "de": "jetzt",
+    "tr": "şimdi",
+    "kategori": "Zaman",
+    "id": "a1-035"
+  },
+  {
+    "de": "der Montag",
+    "tr": "pazartesi",
+    "kategori": "Günler",
+    "id": "a1-036"
+  },
+  {
+    "de": "der Dienstag",
+    "tr": "salı",
+    "kategori": "Günler",
+    "id": "a1-037"
+  },
+  {
+    "de": "der Mittwoch",
+    "tr": "çarşamba",
+    "kategori": "Günler",
+    "id": "a1-038"
+  },
+  {
+    "de": "der Donnerstag",
+    "tr": "perşembe",
+    "kategori": "Günler",
+    "id": "a1-039"
+  },
+  {
+    "de": "der Freitag",
+    "tr": "cuma",
+    "kategori": "Günler",
+    "id": "a1-040"
+  },
+  {
+    "de": "der Samstag",
+    "tr": "cumartesi",
+    "kategori": "Günler",
+    "id": "a1-041"
+  },
+  {
+    "de": "der Sonntag",
+    "tr": "pazar",
+    "kategori": "Günler",
+    "id": "a1-042"
+  },
+  {
+    "de": "der Januar",
+    "tr": "ocak",
+    "kategori": "Aylar",
+    "id": "a1-043"
+  },
+  {
+    "de": "der Februar",
+    "tr": "şubat",
+    "kategori": "Aylar",
+    "id": "a1-044"
+  },
+  {
+    "de": "der März",
+    "tr": "mart",
+    "kategori": "Aylar",
+    "id": "a1-045"
+  },
+  {
+    "de": "der April",
+    "tr": "nisan",
+    "kategori": "Aylar",
+    "id": "a1-046"
+  },
+  {
+    "de": "der Mai",
+    "tr": "mayıs",
+    "kategori": "Aylar",
+    "id": "a1-047"
+  },
+  {
+    "de": "der Juni",
+    "tr": "haziran",
+    "kategori": "Aylar",
+    "id": "a1-048"
+  },
+  {
+    "de": "der Juli",
+    "tr": "temmuz",
+    "kategori": "Aylar",
+    "id": "a1-049"
+  },
+  {
+    "de": "der August",
+    "tr": "ağustos",
+    "kategori": "Aylar",
+    "id": "a1-050"
+  },
+  {
+    "de": "der September",
+    "tr": "eylül",
+    "kategori": "Aylar",
+    "id": "a1-051"
+  },
+  {
+    "de": "der Oktober",
+    "tr": "ekim",
+    "kategori": "Aylar",
+    "id": "a1-052"
+  },
+  {
+    "de": "der November",
+    "tr": "kasım",
+    "kategori": "Aylar",
+    "id": "a1-053"
+  },
+  {
+    "de": "der Dezember",
+    "tr": "aralık",
+    "kategori": "Aylar",
+    "id": "a1-054"
+  },
+  {
+    "de": "der Frühling",
+    "tr": "ilkbahar",
+    "kategori": "Mevsimler",
+    "id": "a1-055"
+  },
+  {
+    "de": "der Sommer",
+    "tr": "yaz",
+    "kategori": "Mevsimler",
+    "id": "a1-056"
+  },
+  {
+    "de": "der Herbst",
+    "tr": "sonbahar",
+    "kategori": "Mevsimler",
+    "id": "a1-057"
+  },
+  {
+    "de": "der Winter",
+    "tr": "kış",
+    "kategori": "Mevsimler",
+    "id": "a1-058"
+  },
+  {
+    "de": "das Haus",
+    "tr": "ev",
+    "kategori": "Ev",
+    "id": "a1-059"
+  },
+  {
+    "de": "die Wohnung",
+    "tr": "daire",
+    "kategori": "Ev",
+    "id": "a1-060"
+  },
+  {
+    "de": "das Zimmer",
+    "tr": "oda",
+    "kategori": "Ev",
+    "id": "a1-061"
+  },
+  {
+    "de": "die Küche",
+    "tr": "mutfak",
+    "kategori": "Ev",
+    "id": "a1-062"
+  },
+  {
+    "de": "das Bad",
+    "tr": "banyo",
+    "kategori": "Ev",
+    "id": "a1-063"
+  },
+  {
+    "de": "der Tisch",
+    "tr": "masa",
+    "kategori": "Ev",
+    "id": "a1-064"
+  },
+  {
+    "de": "der Stuhl",
+    "tr": "sandalye",
+    "kategori": "Ev",
+    "id": "a1-065"
+  },
+  {
+    "de": "das Bett",
+    "tr": "yatak",
+    "kategori": "Ev",
+    "id": "a1-066"
+  },
+  {
+    "de": "die Tür",
+    "tr": "kapı",
+    "kategori": "Ev",
+    "id": "a1-067"
+  },
+  {
+    "de": "das Fenster",
+    "tr": "pencere",
+    "kategori": "Ev",
+    "id": "a1-068"
+  },
+  {
+    "de": "der Schrank",
+    "tr": "dolap",
+    "kategori": "Ev",
+    "id": "a1-069"
+  },
+  {
+    "de": "das Sofa",
+    "tr": "kanepe",
+    "kategori": "Ev",
+    "id": "a1-070"
+  },
+  {
+    "de": "der Kühlschrank",
+    "tr": "buzdolabı",
+    "kategori": "Ev",
+    "id": "a1-071"
+  },
+  {
+    "de": "der Herd",
+    "tr": "ocak (fırın)",
+    "kategori": "Ev",
+    "id": "a1-072"
+  },
+  {
+    "de": "die Lampe",
+    "tr": "lamba",
+    "kategori": "Ev",
+    "id": "a1-073"
+  },
+  {
+    "de": "der Spiegel",
+    "tr": "ayna",
+    "kategori": "Ev",
+    "id": "a1-074"
+  },
+  {
+    "de": "die Dusche",
+    "tr": "duş",
+    "kategori": "Ev",
+    "id": "a1-075"
+  },
+  {
+    "de": "die Toilette",
+    "tr": "tuvalet",
+    "kategori": "Ev",
+    "id": "a1-076"
+  },
+  {
+    "de": "der Schlüssel",
+    "tr": "anahtar",
+    "kategori": "Ev",
+    "id": "a1-077"
+  },
+  {
+    "de": "die Adresse",
+    "tr": "adres",
+    "kategori": "Temel",
+    "id": "a1-078"
+  },
+  {
+    "de": "die Telefonnummer",
+    "tr": "telefon numarası",
+    "kategori": "Temel",
+    "id": "a1-079"
+  },
+  {
+    "de": "die Post",
+    "tr": "posta",
+    "kategori": "Temel",
+    "id": "a1-080"
+  },
+  {
+    "de": "das Paket",
+    "tr": "paket/koli",
+    "kategori": "Temel",
+    "id": "a1-081"
+  },
+  {
+    "de": "der Brief",
+    "tr": "mektup",
+    "kategori": "Temel",
+    "id": "a1-082"
+  },
+  {
+    "de": "essen",
+    "tr": "yemek yemek",
+    "kategori": "Fiiller",
+    "id": "a1-083"
+  },
+  {
+    "de": "trinken",
+    "tr": "içmek",
+    "kategori": "Fiiller",
+    "id": "a1-084"
+  },
+  {
+    "de": "schlafen",
+    "tr": "uyumak",
+    "kategori": "Fiiller",
+    "id": "a1-085"
+  },
+  {
+    "de": "arbeiten",
+    "tr": "çalışmak",
+    "kategori": "Fiiller",
+    "id": "a1-086"
+  },
+  {
+    "de": "lernen",
+    "tr": "öğrenmek",
+    "kategori": "Fiiller",
+    "id": "a1-087"
+  },
+  {
+    "de": "sprechen",
+    "tr": "konuşmak",
+    "kategori": "Fiiller",
+    "id": "a1-088"
+  },
+  {
+    "de": "verstehen",
+    "tr": "anlamak",
+    "kategori": "Fiiller",
+    "id": "a1-089"
+  },
+  {
+    "de": "lesen",
+    "tr": "okumak",
+    "kategori": "Fiiller",
+    "id": "a1-090"
+  },
+  {
+    "de": "schreiben",
+    "tr": "yazmak",
+    "kategori": "Fiiller",
+    "id": "a1-091"
+  },
+  {
+    "de": "gehen",
+    "tr": "gitmek",
+    "kategori": "Fiiller",
+    "id": "a1-092"
+  },
+  {
+    "de": "kommen",
+    "tr": "gelmek",
+    "kategori": "Fiiller",
+    "id": "a1-093"
+  },
+  {
+    "de": "fahren",
+    "tr": "araçla gitmek",
+    "kategori": "Fiiller",
+    "id": "a1-094"
+  },
+  {
+    "de": "wohnen",
+    "tr": "oturmak (ikamet)",
+    "kategori": "Fiiller",
+    "id": "a1-095"
+  },
+  {
+    "de": "heißen",
+    "tr": "isminde olmak",
+    "kategori": "Fiiller",
+    "id": "a1-096"
+  },
+  {
+    "de": "haben",
+    "tr": "sahip olmak",
+    "kategori": "Fiiller",
+    "id": "a1-097"
+  },
+  {
+    "de": "sein",
+    "tr": "olmak",
+    "kategori": "Fiiller",
+    "id": "a1-098"
+  },
+  {
+    "de": "machen",
+    "tr": "yapmak",
+    "kategori": "Fiiller",
+    "id": "a1-099"
+  },
+  {
+    "de": "kaufen",
+    "tr": "satın almak",
+    "kategori": "Fiiller",
+    "id": "a1-100"
+  },
+  {
+    "de": "bezahlen",
+    "tr": "ödemek",
+    "kategori": "Fiiller",
+    "id": "a1-101"
+  },
+  {
+    "de": "kosten",
+    "tr": "-e mal olmak",
+    "kategori": "Fiiller",
+    "id": "a1-102"
+  },
+  {
+    "de": "brauchen",
+    "tr": "ihtiyacı olmak",
+    "kategori": "Fiiller",
+    "id": "a1-103"
+  },
+  {
+    "de": "helfen",
+    "tr": "yardım etmek",
+    "kategori": "Fiiller",
+    "id": "a1-104"
+  },
+  {
+    "de": "spielen",
+    "tr": "oynamak",
+    "kategori": "Fiiller",
+    "id": "a1-105"
+  },
+  {
+    "de": "schwimmen",
+    "tr": "yüzmek",
+    "kategori": "Hobiler",
+    "id": "a1-106"
+  },
+  {
+    "de": "singen",
+    "tr": "şarkı söylemek",
+    "kategori": "Hobiler",
+    "id": "a1-107"
+  },
+  {
+    "de": "tanzen",
+    "tr": "dans etmek",
+    "kategori": "Hobiler",
+    "id": "a1-108"
+  },
+  {
+    "de": "malen",
+    "tr": "resim yapmak",
+    "kategori": "Hobiler",
+    "id": "a1-109"
+  },
+  {
+    "de": "fotografieren",
+    "tr": "fotoğraf çekmek",
+    "kategori": "Hobiler",
+    "id": "a1-110"
+  },
+  {
+    "de": "kochen",
+    "tr": "yemek pişirmek",
+    "kategori": "Hobiler",
+    "id": "a1-111"
+  },
+  {
+    "de": "reisen",
+    "tr": "seyahat etmek",
+    "kategori": "Hobiler",
+    "id": "a1-112"
+  },
+  {
+    "de": "wandern",
+    "tr": "yürüyüş yapmak (doğada)",
+    "kategori": "Hobiler",
+    "id": "a1-113"
+  },
+  {
+    "de": "fernsehen",
+    "tr": "televizyon izlemek",
+    "kategori": "Hobiler",
+    "id": "a1-114"
+  },
+  {
+    "de": "das Hobby",
+    "tr": "hobi",
+    "kategori": "Hobiler",
+    "id": "a1-115"
+  },
+  {
+    "de": "das Brot",
+    "tr": "ekmek",
+    "kategori": "Yiyecek",
+    "id": "a1-116"
+  },
+  {
+    "de": "das Wasser",
+    "tr": "su",
+    "kategori": "Yiyecek",
+    "id": "a1-117"
+  },
+  {
+    "de": "die Milch",
+    "tr": "süt",
+    "kategori": "Yiyecek",
+    "id": "a1-118"
+  },
+  {
+    "de": "der Kaffee",
+    "tr": "kahve",
+    "kategori": "Yiyecek",
+    "id": "a1-119"
+  },
+  {
+    "de": "der Tee",
+    "tr": "çay",
+    "kategori": "Yiyecek",
+    "id": "a1-120"
+  },
+  {
+    "de": "der Apfel",
+    "tr": "elma",
+    "kategori": "Yiyecek",
+    "id": "a1-121"
+  },
+  {
+    "de": "das Obst",
+    "tr": "meyve",
+    "kategori": "Yiyecek",
+    "id": "a1-122"
+  },
+  {
+    "de": "das Gemüse",
+    "tr": "sebze",
+    "kategori": "Yiyecek",
+    "id": "a1-123"
+  },
+  {
+    "de": "das Fleisch",
+    "tr": "et",
+    "kategori": "Yiyecek",
+    "id": "a1-124"
+  },
+  {
+    "de": "der Käse",
+    "tr": "peynir",
+    "kategori": "Yiyecek",
+    "id": "a1-125"
+  },
+  {
+    "de": "der Zucker",
+    "tr": "şeker",
+    "kategori": "Yiyecek",
+    "id": "a1-126"
+  },
+  {
+    "de": "das Salz",
+    "tr": "tuz",
+    "kategori": "Yiyecek",
+    "id": "a1-127"
+  },
+  {
+    "de": "das Frühstück",
+    "tr": "kahvaltı",
+    "kategori": "Yiyecek",
+    "id": "a1-128"
+  },
+  {
+    "de": "das Mittagessen",
+    "tr": "öğle yemeği",
+    "kategori": "Yiyecek",
+    "id": "a1-129"
+  },
+  {
+    "de": "das Abendessen",
+    "tr": "akşam yemeği",
+    "kategori": "Yiyecek",
+    "id": "a1-130"
+  },
+  {
+    "de": "die Suppe",
+    "tr": "çorba",
+    "kategori": "Yiyecek",
+    "id": "a1-131"
+  },
+  {
+    "de": "der Reis",
+    "tr": "pirinç",
+    "kategori": "Yiyecek",
+    "id": "a1-132"
+  },
+  {
+    "de": "die Kartoffel",
+    "tr": "patates",
+    "kategori": "Yiyecek",
+    "id": "a1-133"
+  },
+  {
+    "de": "die Tomate",
+    "tr": "domates",
+    "kategori": "Yiyecek",
+    "id": "a1-134"
+  },
+  {
+    "de": "die Zwiebel",
+    "tr": "soğan",
+    "kategori": "Yiyecek",
+    "id": "a1-135"
+  },
+  {
+    "de": "das Ei",
+    "tr": "yumurta",
+    "kategori": "Yiyecek",
+    "id": "a1-136"
+  },
+  {
+    "de": "der Fisch",
+    "tr": "balık",
+    "kategori": "Yiyecek",
+    "id": "a1-137"
+  },
+  {
+    "de": "das Huhn",
+    "tr": "tavuk",
+    "kategori": "Yiyecek",
+    "id": "a1-138"
+  },
+  {
+    "de": "die Nudeln",
+    "tr": "makarna",
+    "kategori": "Yiyecek",
+    "id": "a1-139"
+  },
+  {
+    "de": "der Kuchen",
+    "tr": "pasta/kek",
+    "kategori": "Yiyecek",
+    "id": "a1-140"
+  },
+  {
+    "de": "die Schokolade",
+    "tr": "çikolata",
+    "kategori": "Yiyecek",
+    "id": "a1-141"
+  },
+  {
+    "de": "der Saft",
+    "tr": "meyve suyu",
+    "kategori": "Yiyecek",
+    "id": "a1-142"
+  },
+  {
+    "de": "das Bier",
+    "tr": "bira",
+    "kategori": "Yiyecek",
+    "id": "a1-143"
+  },
+  {
+    "de": "der Wein",
+    "tr": "şarap",
+    "kategori": "Yiyecek",
+    "id": "a1-144"
+  },
+  {
+    "de": "das Getränk",
+    "tr": "içecek",
+    "kategori": "Yiyecek",
+    "id": "a1-145"
+  },
+  {
+    "de": "süß",
+    "tr": "tatlı",
+    "kategori": "Yiyecek",
+    "id": "a1-146"
+  },
+  {
+    "de": "sauer",
+    "tr": "ekşi",
+    "kategori": "Yiyecek",
+    "id": "a1-147"
+  },
+  {
+    "de": "scharf",
+    "tr": "acı (baharatlı)",
+    "kategori": "Yiyecek",
+    "id": "a1-148"
+  },
+  {
+    "de": "eins",
+    "tr": "bir",
+    "kategori": "Sayılar",
+    "id": "a1-149"
+  },
+  {
+    "de": "zwei",
+    "tr": "iki",
+    "kategori": "Sayılar",
+    "id": "a1-150"
+  },
+  {
+    "de": "drei",
+    "tr": "üç",
+    "kategori": "Sayılar",
+    "id": "a1-151"
+  },
+  {
+    "de": "vier",
+    "tr": "dört",
+    "kategori": "Sayılar",
+    "id": "a1-152"
+  },
+  {
+    "de": "fünf",
+    "tr": "beş",
+    "kategori": "Sayılar",
+    "id": "a1-153"
+  },
+  {
+    "de": "sechs",
+    "tr": "altı",
+    "kategori": "Sayılar",
+    "id": "a1-154"
+  },
+  {
+    "de": "sieben",
+    "tr": "yedi",
+    "kategori": "Sayılar",
+    "id": "a1-155"
+  },
+  {
+    "de": "acht",
+    "tr": "sekiz",
+    "kategori": "Sayılar",
+    "id": "a1-156"
+  },
+  {
+    "de": "neun",
+    "tr": "dokuz",
+    "kategori": "Sayılar",
+    "id": "a1-157"
+  },
+  {
+    "de": "zehn",
+    "tr": "on",
+    "kategori": "Sayılar",
+    "id": "a1-158"
+  },
+  {
+    "de": "elf",
+    "tr": "on bir",
+    "kategori": "Sayılar",
+    "id": "a1-159"
+  },
+  {
+    "de": "zwölf",
+    "tr": "on iki",
+    "kategori": "Sayılar",
+    "id": "a1-160"
+  },
+  {
+    "de": "dreizehn",
+    "tr": "on üç",
+    "kategori": "Sayılar",
+    "id": "a1-161"
+  },
+  {
+    "de": "vierzehn",
+    "tr": "on dört",
+    "kategori": "Sayılar",
+    "id": "a1-162"
+  },
+  {
+    "de": "fünfzehn",
+    "tr": "on beş",
+    "kategori": "Sayılar",
+    "id": "a1-163"
+  },
+  {
+    "de": "sechzehn",
+    "tr": "on altı",
+    "kategori": "Sayılar",
+    "id": "a1-164"
+  },
+  {
+    "de": "siebzehn",
+    "tr": "on yedi",
+    "kategori": "Sayılar",
+    "id": "a1-165"
+  },
+  {
+    "de": "achtzehn",
+    "tr": "on sekiz",
+    "kategori": "Sayılar",
+    "id": "a1-166"
+  },
+  {
+    "de": "neunzehn",
+    "tr": "on dokuz",
+    "kategori": "Sayılar",
+    "id": "a1-167"
+  },
+  {
+    "de": "zwanzig",
+    "tr": "yirmi",
+    "kategori": "Sayılar",
+    "id": "a1-168"
+  },
+  {
+    "de": "dreißig",
+    "tr": "otuz",
+    "kategori": "Sayılar",
+    "id": "a1-169"
+  },
+  {
+    "de": "vierzig",
+    "tr": "kırk",
+    "kategori": "Sayılar",
+    "id": "a1-170"
+  },
+  {
+    "de": "fünfzig",
+    "tr": "elli",
+    "kategori": "Sayılar",
+    "id": "a1-171"
+  },
+  {
+    "de": "sechzig",
+    "tr": "altmış",
+    "kategori": "Sayılar",
+    "id": "a1-172"
+  },
+  {
+    "de": "siebzig",
+    "tr": "yetmiş",
+    "kategori": "Sayılar",
+    "id": "a1-173"
+  },
+  {
+    "de": "achtzig",
+    "tr": "seksen",
+    "kategori": "Sayılar",
+    "id": "a1-174"
+  },
+  {
+    "de": "neunzig",
+    "tr": "doksan",
+    "kategori": "Sayılar",
+    "id": "a1-175"
+  },
+  {
+    "de": "hundert",
+    "tr": "yüz",
+    "kategori": "Sayılar",
+    "id": "a1-176"
+  },
+  {
+    "de": "tausend",
+    "tr": "bin",
+    "kategori": "Sayılar",
+    "id": "a1-177"
+  },
+  {
+    "de": "erste",
+    "tr": "birinci",
+    "kategori": "Sayılar",
+    "id": "a1-178"
+  },
+  {
+    "de": "zweite",
+    "tr": "ikinci",
+    "kategori": "Sayılar",
+    "id": "a1-179"
+  },
+  {
+    "de": "dritte",
+    "tr": "üçüncü",
+    "kategori": "Sayılar",
+    "id": "a1-180"
+  },
+  {
+    "de": "groß",
+    "tr": "büyük",
+    "kategori": "Sıfatlar",
+    "id": "a1-181"
+  },
+  {
+    "de": "klein",
+    "tr": "küçük",
+    "kategori": "Sıfatlar",
+    "id": "a1-182"
+  },
+  {
+    "de": "gut",
+    "tr": "iyi",
+    "kategori": "Sıfatlar",
+    "id": "a1-183"
+  },
+  {
+    "de": "schlecht",
+    "tr": "kötü",
+    "kategori": "Sıfatlar",
+    "id": "a1-184"
+  },
+  {
+    "de": "neu",
+    "tr": "yeni",
+    "kategori": "Sıfatlar",
+    "id": "a1-185"
+  },
+  {
+    "de": "alt",
+    "tr": "eski / yaşlı",
+    "kategori": "Sıfatlar",
+    "id": "a1-186"
+  },
+  {
+    "de": "schön",
+    "tr": "güzel",
+    "kategori": "Sıfatlar",
+    "id": "a1-187"
+  },
+  {
+    "de": "teuer",
+    "tr": "pahalı",
+    "kategori": "Sıfatlar",
+    "id": "a1-188"
+  },
+  {
+    "de": "billig",
+    "tr": "ucuz",
+    "kategori": "Sıfatlar",
+    "id": "a1-189"
+  },
+  {
+    "de": "schnell",
+    "tr": "hızlı",
+    "kategori": "Sıfatlar",
+    "id": "a1-190"
+  },
+  {
+    "de": "langsam",
+    "tr": "yavaş",
+    "kategori": "Sıfatlar",
+    "id": "a1-191"
+  },
+  {
+    "de": "viel",
+    "tr": "çok",
+    "kategori": "Sıfatlar",
+    "id": "a1-192"
+  },
+  {
+    "de": "wenig",
+    "tr": "az",
+    "kategori": "Sıfatlar",
+    "id": "a1-193"
+  },
+  {
+    "de": "die Stadt",
+    "tr": "şehir",
+    "kategori": "Yerler",
+    "id": "a1-194"
+  },
+  {
+    "de": "die Straße",
+    "tr": "sokak / cadde",
+    "kategori": "Yerler",
+    "id": "a1-195"
+  },
+  {
+    "de": "der Bahnhof",
+    "tr": "tren istasyonu",
+    "kategori": "Yerler",
+    "id": "a1-196"
+  },
+  {
+    "de": "der Flughafen",
+    "tr": "havalimanı",
+    "kategori": "Yerler",
+    "id": "a1-197"
+  },
+  {
+    "de": "die Schule",
+    "tr": "okul",
+    "kategori": "Yerler",
+    "id": "a1-198"
+  },
+  {
+    "de": "die Arbeit",
+    "tr": "iş",
+    "kategori": "Yerler",
+    "id": "a1-199"
+  },
+  {
+    "de": "der Supermarkt",
+    "tr": "süpermarket",
+    "kategori": "Yerler",
+    "id": "a1-200"
+  },
+  {
+    "de": "das Krankenhaus",
+    "tr": "hastane",
+    "kategori": "Yerler",
+    "id": "a1-201"
+  },
+  {
+    "de": "die Apotheke",
+    "tr": "eczane",
+    "kategori": "Yerler",
+    "id": "a1-202"
+  },
+  {
+    "de": "das Restaurant",
+    "tr": "restoran",
+    "kategori": "Yerler",
+    "id": "a1-203"
+  },
+  {
+    "de": "der Bus",
+    "tr": "otobüs",
+    "kategori": "Ulaşım",
+    "id": "a1-204"
+  },
+  {
+    "de": "der Zug",
+    "tr": "tren",
+    "kategori": "Ulaşım",
+    "id": "a1-205"
+  },
+  {
+    "de": "das Auto",
+    "tr": "araba",
+    "kategori": "Ulaşım",
+    "id": "a1-206"
+  },
+  {
+    "de": "das Fahrrad",
+    "tr": "bisiklet",
+    "kategori": "Ulaşım",
+    "id": "a1-207"
+  },
+  {
+    "de": "das Ticket",
+    "tr": "bilet",
+    "kategori": "Ulaşım",
+    "id": "a1-208"
+  },
+  {
+    "de": "der Weg",
+    "tr": "yol",
+    "kategori": "Ulaşım",
+    "id": "a1-209"
+  },
+  {
+    "de": "links",
+    "tr": "sol / sola",
+    "kategori": "Ulaşım",
+    "id": "a1-210"
+  },
+  {
+    "de": "rechts",
+    "tr": "sağ / sağa",
+    "kategori": "Ulaşım",
+    "id": "a1-211"
+  },
+  {
+    "de": "geradeaus",
+    "tr": "dosdoğru",
+    "kategori": "Ulaşım",
+    "id": "a1-212"
+  },
+  {
+    "de": "rot",
+    "tr": "kırmızı",
+    "kategori": "Renkler",
+    "id": "a1-213"
+  },
+  {
+    "de": "blau",
+    "tr": "mavi",
+    "kategori": "Renkler",
+    "id": "a1-214"
+  },
+  {
+    "de": "grün",
+    "tr": "yeşil",
+    "kategori": "Renkler",
+    "id": "a1-215"
+  },
+  {
+    "de": "gelb",
+    "tr": "sarı",
+    "kategori": "Renkler",
+    "id": "a1-216"
+  },
+  {
+    "de": "schwarz",
+    "tr": "siyah",
+    "kategori": "Renkler",
+    "id": "a1-217"
+  },
+  {
+    "de": "weiß",
+    "tr": "beyaz",
+    "kategori": "Renkler",
+    "id": "a1-218"
+  },
+  {
+    "de": "der Kopf",
+    "tr": "baş / kafa",
+    "kategori": "Vücut",
+    "id": "a1-219"
+  },
+  {
+    "de": "die Hand",
+    "tr": "el",
+    "kategori": "Vücut",
+    "id": "a1-220"
+  },
+  {
+    "de": "der Fuß",
+    "tr": "ayak",
+    "kategori": "Vücut",
+    "id": "a1-221"
+  },
+  {
+    "de": "das Auge",
+    "tr": "göz",
+    "kategori": "Vücut",
+    "id": "a1-222"
+  },
+  {
+    "de": "die Nase",
+    "tr": "burun",
+    "kategori": "Vücut",
+    "id": "a1-223"
+  },
+  {
+    "de": "der Mund",
+    "tr": "ağız",
+    "kategori": "Vücut",
+    "id": "a1-224"
+  },
+  {
+    "de": "das Ohr",
+    "tr": "kulak",
+    "kategori": "Vücut",
+    "id": "a1-225"
+  },
+  {
+    "de": "der Bauch",
+    "tr": "karın",
+    "kategori": "Vücut",
+    "id": "a1-226"
+  },
+  {
+    "de": "der Rücken",
+    "tr": "sırt",
+    "kategori": "Vücut",
+    "id": "a1-227"
+  },
+  {
+    "de": "das Bein",
+    "tr": "bacak",
+    "kategori": "Vücut",
+    "id": "a1-228"
+  },
+  {
+    "de": "der Arm",
+    "tr": "kol",
+    "kategori": "Vücut",
+    "id": "a1-229"
+  },
+  {
+    "de": "der Finger",
+    "tr": "parmak",
+    "kategori": "Vücut",
+    "id": "a1-230"
+  },
+  {
+    "de": "das Haar",
+    "tr": "saç",
+    "kategori": "Vücut",
+    "id": "a1-231"
+  },
+  {
+    "de": "der Zahn",
+    "tr": "diş",
+    "kategori": "Vücut",
+    "id": "a1-232"
+  },
+  {
+    "de": "krank",
+    "tr": "hasta",
+    "kategori": "Sağlık",
+    "id": "a1-233"
+  },
+  {
+    "de": "gesund",
+    "tr": "sağlıklı",
+    "kategori": "Sağlık",
+    "id": "a1-234"
+  },
+  {
+    "de": "der Arzt",
+    "tr": "doktor",
+    "kategori": "Sağlık",
+    "id": "a1-235"
+  },
+  {
+    "de": "die Hilfe",
+    "tr": "yardım",
+    "kategori": "Temel",
+    "id": "a1-236"
+  },
+  {
+    "de": "bitte",
+    "tr": "lütfen",
+    "kategori": "Nezaket",
+    "id": "a1-237"
+  },
+  {
+    "de": "danke",
+    "tr": "teşekkürler",
+    "kategori": "Nezaket",
+    "id": "a1-238"
+  },
+  {
+    "de": "entschuldigung",
+    "tr": "özür dilerim / affedersiniz",
+    "kategori": "Nezaket",
+    "id": "a1-239"
+  },
+  {
+    "de": "hallo",
+    "tr": "merhaba",
+    "kategori": "Nezaket",
+    "id": "a1-240"
+  },
+  {
+    "de": "tschüss",
+    "tr": "hoşça kal",
+    "kategori": "Nezaket",
+    "id": "a1-241"
+  },
+  {
+    "de": "guten Morgen",
+    "tr": "günaydın",
+    "kategori": "Nezaket",
+    "id": "a1-242"
+  },
+  {
+    "de": "guten Tag",
+    "tr": "iyi günler",
+    "kategori": "Nezaket",
+    "id": "a1-243"
+  },
+  {
+    "de": "guten Abend",
+    "tr": "iyi akşamlar",
+    "kategori": "Nezaket",
+    "id": "a1-244"
+  },
+  {
+    "de": "gute Nacht",
+    "tr": "iyi geceler",
+    "kategori": "Nezaket",
+    "id": "a1-245"
+  },
+  {
+    "de": "wie geht's",
+    "tr": "nasılsın",
+    "kategori": "Nezaket",
+    "id": "a1-246"
+  },
+  {
+    "de": "willkommen",
+    "tr": "hoş geldiniz",
+    "kategori": "Nezaket",
+    "id": "a1-247"
+  },
+  {
+    "de": "ja",
+    "tr": "evet",
+    "kategori": "Temel",
+    "id": "a1-248"
+  },
+  {
+    "de": "nein",
+    "tr": "hayır",
+    "kategori": "Temel",
+    "id": "a1-249"
+  },
+  {
+    "de": "vielleicht",
+    "tr": "belki",
+    "kategori": "Temel",
+    "id": "a1-250"
+  },
+  {
+    "de": "das Geld",
+    "tr": "para",
+    "kategori": "Temel",
+    "id": "a1-251"
+  },
+  {
+    "de": "die Zeit",
+    "tr": "zaman",
+    "kategori": "Temel",
+    "id": "a1-252"
+  },
+  {
+    "de": "das Wetter",
+    "tr": "hava durumu",
+    "kategori": "Doğa",
+    "id": "a1-253"
+  },
+  {
+    "de": "die Sonne",
+    "tr": "güneş",
+    "kategori": "Doğa",
+    "id": "a1-254"
+  },
+  {
+    "de": "der Regen",
+    "tr": "yağmur",
+    "kategori": "Doğa",
+    "id": "a1-255"
+  },
+  {
+    "de": "der Schnee",
+    "tr": "kar",
+    "kategori": "Doğa",
+    "id": "a1-256"
+  },
+  {
+    "de": "der Wind",
+    "tr": "rüzgar",
+    "kategori": "Doğa",
+    "id": "a1-257"
+  },
+  {
+    "de": "der Himmel",
+    "tr": "gökyüzü",
+    "kategori": "Doğa",
+    "id": "a1-258"
+  },
+  {
+    "de": "der Baum",
+    "tr": "ağaç",
+    "kategori": "Doğa",
+    "id": "a1-259"
+  },
+  {
+    "de": "die Blume",
+    "tr": "çiçek",
+    "kategori": "Doğa",
+    "id": "a1-260"
+  },
+  {
+    "de": "das Tier",
+    "tr": "hayvan",
+    "kategori": "Doğa",
+    "id": "a1-261"
+  },
+  {
+    "de": "der Hund",
+    "tr": "köpek",
+    "kategori": "Doğa",
+    "id": "a1-262"
+  },
+  {
+    "de": "die Katze",
+    "tr": "kedi",
+    "kategori": "Doğa",
+    "id": "a1-263"
+  },
+  {
+    "de": "kalt",
+    "tr": "soğuk",
+    "kategori": "Doğa",
+    "id": "a1-264"
+  },
+  {
+    "de": "warm",
+    "tr": "sıcak (ılık)",
+    "kategori": "Doğa",
+    "id": "a1-265"
+  },
+  {
+    "de": "die Kleidung",
+    "tr": "kıyafet",
+    "kategori": "Giysiler",
+    "id": "a1-266"
+  },
+  {
+    "de": "das Hemd",
+    "tr": "gömlek",
+    "kategori": "Giysiler",
+    "id": "a1-267"
+  },
+  {
+    "de": "die Hose",
+    "tr": "pantolon",
+    "kategori": "Giysiler",
+    "id": "a1-268"
+  },
+  {
+    "de": "der Rock",
+    "tr": "etek",
+    "kategori": "Giysiler",
+    "id": "a1-269"
+  },
+  {
+    "de": "das Kleid",
+    "tr": "elbise",
+    "kategori": "Giysiler",
+    "id": "a1-270"
+  },
+  {
+    "de": "die Jacke",
+    "tr": "ceket (mont)",
+    "kategori": "Giysiler",
+    "id": "a1-271"
+  },
+  {
+    "de": "der Mantel",
+    "tr": "palto",
+    "kategori": "Giysiler",
+    "id": "a1-272"
+  },
+  {
+    "de": "die Schuhe",
+    "tr": "ayakkabılar",
+    "kategori": "Giysiler",
+    "id": "a1-273"
+  },
+  {
+    "de": "die Socken",
+    "tr": "çoraplar",
+    "kategori": "Giysiler",
+    "id": "a1-274"
+  },
+  {
+    "de": "der Hut",
+    "tr": "şapka",
+    "kategori": "Giysiler",
+    "id": "a1-275"
+  },
+  {
+    "de": "die Mütze",
+    "tr": "bere/kasket",
+    "kategori": "Giysiler",
+    "id": "a1-276"
+  },
+  {
+    "de": "der Schal",
+    "tr": "atkı",
+    "kategori": "Giysiler",
+    "id": "a1-277"
+  },
+  {
+    "de": "die Handschuhe",
+    "tr": "eldivenler",
+    "kategori": "Giysiler",
+    "id": "a1-278"
+  },
+  {
+    "de": "der Anzug",
+    "tr": "takım elbise",
+    "kategori": "Giysiler",
+    "id": "a1-279"
+  },
+  {
+    "de": "die Bluse",
+    "tr": "bluz",
+    "kategori": "Giysiler",
+    "id": "a1-280"
+  },
+  {
+    "de": "der Lehrer",
+    "tr": "öğretmen (erkek)",
+    "kategori": "Meslekler",
+    "id": "a1-281"
+  },
+  {
+    "de": "die Lehrerin",
+    "tr": "öğretmen (kadın)",
+    "kategori": "Meslekler",
+    "id": "a1-282"
+  },
+  {
+    "de": "der Ingenieur",
+    "tr": "mühendis",
+    "kategori": "Meslekler",
+    "id": "a1-283"
+  },
+  {
+    "de": "der Verkäufer",
+    "tr": "satış görevlisi",
+    "kategori": "Meslekler",
+    "id": "a1-284"
+  },
+  {
+    "de": "der Kellner",
+    "tr": "garson",
+    "kategori": "Meslekler",
+    "id": "a1-285"
+  },
+  {
+    "de": "der Polizist",
+    "tr": "polis",
+    "kategori": "Meslekler",
+    "id": "a1-286"
+  },
+  {
+    "de": "der Koch",
+    "tr": "aşçı",
+    "kategori": "Meslekler",
+    "id": "a1-287"
+  },
+  {
+    "de": "der Fahrer",
+    "tr": "şoför",
+    "kategori": "Meslekler",
+    "id": "a1-288"
+  },
+  {
+    "de": "der Student",
+    "tr": "üniversite öğrencisi",
+    "kategori": "Meslekler",
+    "id": "a1-289"
+  },
+  {
+    "de": "der Schüler",
+    "tr": "okul öğrencisi",
+    "kategori": "Meslekler",
+    "id": "a1-290"
+  },
+  {
+    "de": "die Krankenschwester",
+    "tr": "hemşire",
+    "kategori": "Meslekler",
+    "id": "a1-291"
+  },
+  {
+    "de": "der Bäcker",
+    "tr": "fırıncı",
+    "kategori": "Meslekler",
+    "id": "a1-292"
+  },
+  {
+    "de": "der Friseur",
+    "tr": "kuaför",
+    "kategori": "Meslekler",
+    "id": "a1-293"
+  },
+  {
+    "de": "der Kugelschreiber",
+    "tr": "tükenmez kalem",
+    "kategori": "Okul",
+    "id": "a1-294"
+  },
+  {
+    "de": "der Bleistift",
+    "tr": "kurşun kalem",
+    "kategori": "Okul",
+    "id": "a1-295"
+  },
+  {
+    "de": "das Heft",
+    "tr": "defter",
+    "kategori": "Okul",
+    "id": "a1-296"
+  },
+  {
+    "de": "das Buch",
+    "tr": "kitap",
+    "kategori": "Okul",
+    "id": "a1-297"
+  },
+  {
+    "de": "die Tasche",
+    "tr": "çanta",
+    "kategori": "Okul",
+    "id": "a1-298"
+  },
+  {
+    "de": "der Rucksack",
+    "tr": "sırt çantası",
+    "kategori": "Okul",
+    "id": "a1-299"
+  },
+  {
+    "de": "das Papier",
+    "tr": "kağıt",
+    "kategori": "Okul",
+    "id": "a1-300"
+  },
+  {
+    "de": "die Schere",
+    "tr": "makas",
+    "kategori": "Okul",
+    "id": "a1-301"
+  },
+  {
+    "de": "der Computer",
+    "tr": "bilgisayar",
+    "kategori": "Okul",
+    "id": "a1-302"
+  },
+  {
+    "de": "der Drucker",
+    "tr": "yazıcı",
+    "kategori": "Okul",
+    "id": "a1-303"
+  },
+  {
+    "de": "das Telefon",
+    "tr": "telefon",
+    "kategori": "Elektronik",
+    "id": "a1-304"
+  },
+  {
+    "de": "der Fernseher",
+    "tr": "televizyon",
+    "kategori": "Elektronik",
+    "id": "a1-305"
+  },
+  {
+    "de": "das Radio",
+    "tr": "radyo",
+    "kategori": "Elektronik",
+    "id": "a1-306"
+  },
+  {
+    "de": "die Kamera",
+    "tr": "kamera/fotoğraf makinesi",
+    "kategori": "Elektronik",
+    "id": "a1-307"
+  },
+  {
+    "de": "der Laptop",
+    "tr": "dizüstü bilgisayar",
+    "kategori": "Elektronik",
+    "id": "a1-308"
+  },
+  {
+    "de": "das Internet",
+    "tr": "internet",
+    "kategori": "Elektronik",
+    "id": "a1-309"
+  },
+  {
+    "de": "neben",
+    "tr": "yanında",
+    "kategori": "Edatlar",
+    "id": "a1-310"
+  },
+  {
+    "de": "hinter",
+    "tr": "arkasında",
+    "kategori": "Edatlar",
+    "id": "a1-311"
+  },
+  {
+    "de": "vor",
+    "tr": "önünde",
+    "kategori": "Edatlar",
+    "id": "a1-312"
+  },
+  {
+    "de": "zwischen",
+    "tr": "arasında",
+    "kategori": "Edatlar",
+    "id": "a1-313"
+  },
+  {
+    "de": "unter",
+    "tr": "altında",
+    "kategori": "Edatlar",
+    "id": "a1-314"
+  },
+  {
+    "de": "über",
+    "tr": "üstünde/hakkında",
+    "kategori": "Edatlar",
+    "id": "a1-315"
+  },
+  {
+    "de": "in",
+    "tr": "içinde",
+    "kategori": "Edatlar",
+    "id": "a1-316"
+  },
+  {
+    "de": "an",
+    "tr": "kenarında/-de",
+    "kategori": "Edatlar",
+    "id": "a1-317"
+  },
+  {
+    "de": "auf",
+    "tr": "üzerinde",
+    "kategori": "Edatlar",
+    "id": "a1-318"
+  },
+  {
+    "de": "durch",
+    "tr": "içinden/aracılığıyla",
+    "kategori": "Edatlar",
+    "id": "a1-319"
+  },
+  {
+    "de": "ohne",
+    "tr": "-siz",
+    "kategori": "Edatlar",
+    "id": "a1-320"
+  },
+  {
+    "de": "für",
+    "tr": "için",
+    "kategori": "Edatlar",
+    "id": "a1-321"
+  },
+  {
+    "de": "mit",
+    "tr": "ile",
+    "kategori": "Edatlar",
+    "id": "a1-322"
+  },
+  {
+    "de": "nach",
+    "tr": "-e doğru/sonra",
+    "kategori": "Edatlar",
+    "id": "a1-323"
+  },
+  {
+    "de": "zu",
+    "tr": "-e (yöne)",
+    "kategori": "Edatlar",
+    "id": "a1-324"
+  },
+  {
+    "de": "von",
+    "tr": "-den",
+    "kategori": "Edatlar",
+    "id": "a1-325"
+  },
+  {
+    "de": "bei",
+    "tr": "yanında/-de",
+    "kategori": "Edatlar",
+    "id": "a1-326"
+  },
+  {
+    "de": "immer",
+    "tr": "her zaman",
+    "kategori": "Zarflar",
+    "id": "a1-327"
+  },
+  {
+    "de": "oft",
+    "tr": "sık sık",
+    "kategori": "Zarflar",
+    "id": "a1-328"
+  },
+  {
+    "de": "manchmal",
+    "tr": "bazen",
+    "kategori": "Zarflar",
+    "id": "a1-329"
+  },
+  {
+    "de": "selten",
+    "tr": "nadiren",
+    "kategori": "Zarflar",
+    "id": "a1-330"
+  },
+  {
+    "de": "nie",
+    "tr": "asla",
+    "kategori": "Zarflar",
+    "id": "a1-331"
+  },
+  {
+    "de": "schon",
+    "tr": "zaten/şimdiden",
+    "kategori": "Zarflar",
+    "id": "a1-332"
+  },
+  {
+    "de": "noch",
+    "tr": "hâlâ/henüz",
+    "kategori": "Zarflar",
+    "id": "a1-333"
+  },
+  {
+    "de": "auch",
+    "tr": "de/da",
+    "kategori": "Zarflar",
+    "id": "a1-334"
+  },
+  {
+    "de": "sehr",
+    "tr": "çok (pekiştirme)",
+    "kategori": "Zarflar",
+    "id": "a1-335"
+  },
+  {
+    "de": "wieder",
+    "tr": "tekrar",
+    "kategori": "Zarflar",
+    "id": "a1-336"
+  },
+  {
+    "de": "gern",
+    "tr": "severek/memnuniyetle",
+    "kategori": "Zarflar",
+    "id": "a1-337"
+  }
+]

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kelime Çalış — Almanca Pasaportu</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<main>
+  <div class="page-head">
+    <span class="eyebrow">Kelime Çalış</span>
+    <h1>Karta tıkla, çevir, ezberle</h1>
+    <p class="lead">Önce Almancasını gör, karta tıklayarak (veya boşluk tuşuna basarak) Türkçesini gör. Öğrendiğini düşündüğün kelimeleri işaretle — bu kelimeler <a href="vocab.html">Kelime Testi</a> sayfasında "sadece çalıştıklarım" filtresiyle karşına çıkacak.</p>
+  </div>
+
+  <div class="level-tabs">
+    <button data-level="a1">A1</button>
+    <button data-level="a2">A2</button>
+  </div>
+
+  <div class="study-toolbar">
+    <select id="category-filter"></select>
+  </div>
+
+  <div class="study-progress-line" id="study-progress-line"></div>
+
+  <div class="study-stage">
+    <div class="study-counter" id="study-counter" style="text-align:center; font-family:'IBM Plex Mono',monospace; font-size:13px; color:var(--ink-soft); margin-bottom:10px;"></div>
+
+    <div class="flashcard-scene">
+      <div class="flashcard" id="flashcard">
+        <div class="flashcard-face front">
+          <div class="vocab-category" id="card-front-cat"></div>
+          <div class="flashcard-word" id="card-front-word"></div>
+          <div class="flashcard-hint">Çevirmek için tıkla</div>
+        </div>
+        <div class="flashcard-face back">
+          <div class="vocab-category" id="card-back-cat"></div>
+          <div class="flashcard-word" id="card-back-word"></div>
+          <div class="flashcard-hint">Geri dönmek için tekrar tıkla</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="study-mark-row">
+      <button class="mark-learned-btn" id="mark-learned-btn">Öğrendim olarak işaretle</button>
+    </div>
+
+    <div class="study-nav-row">
+      <button class="btn secondary" id="prev-btn">← Önceki</button>
+      <button class="btn" id="next-btn">Sonraki →</button>
+    </div>
+  </div>
+</main>
+
+<footer id="site-footer"></footer>
+
+<script src="js/app.js"></script>
+<script src="js/study.js"></script>
+</body>
+</html>

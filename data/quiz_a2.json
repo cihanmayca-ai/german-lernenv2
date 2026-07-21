@@ -1,0 +1,22 @@
+[
+  {"soru": "Ich habe gestern einen Film ___.", "secenekler": ["gesehen", "sehen", "sieht", "sah"], "dogru": 0, "aciklama": "'sehen' fiilinin Partizip II hali 'gesehen'dir, Perfekt'te kullanılır."},
+  {"soru": "Wir ___ letztes Jahr nach Izmir gefahren.", "secenekler": ["haben", "sind", "hat", "ist"], "dogru": 1, "aciklama": "'fahren' hareket fiili olduğu için Perfekt'te 'sein' ile çekilir."},
+  {"soru": "Ich helfe ___ Mann. (Dativ)", "secenekler": ["der", "den", "dem", "des"], "dogru": 2, "aciklama": "'helfen' fiili Dativ ister; eril isimde Dativ artikeli 'dem' olur."},
+  {"soru": "Das Buch liegt auf ___ Tisch. (konum)", "secenekler": ["den", "dem", "der", "das"], "dogru": 1, "aciklama": "Konum bildirdiği için (Wo?) Dativ kullanılır: auf dem Tisch."},
+  {"soru": "Ich lege das Buch auf ___ Tisch. (hareket)", "secenekler": ["den", "dem", "der", "das"], "dogru": 0, "aciklama": "Hareket bildirdiği için (Wohin?) Akkusativ kullanılır: auf den Tisch."},
+  {"soru": "Ich bleibe zu Hause, ___ ich krank bin.", "secenekler": ["dass", "wenn", "weil", "obwohl"], "dogru": 2, "aciklama": "Sebep bildirdiği için 'weil' (çünkü) doğru bağlaçtır."},
+  {"soru": "Er ist ___ als ich. (uzun/büyük)", "secenekler": ["groß", "größer", "am größten", "großer"], "dogru": 1, "aciklama": "Karşılaştırma yapılırken sıfat Komparativ (+er) alır: größer als."},
+  {"soru": "Der Zug ___ um neun Uhr ___.", "secenekler": ["kommt / an", "an / kommt", "ankommt / -", "kommt an / an"], "dogru": 0, "aciklama": "Ayrılabilir fiil 'ankommen' düz cümlede ikiye ayrılır: kommt ... an."},
+  {"soru": "Ich freue ___ auf den Urlaub.", "secenekler": ["mir", "mich", "dich", "sich"], "dogru": 1, "aciklama": "'sich freuen' refleksif fiildir, 'ich' ile 'mich' kullanılır."},
+  {"soru": "___ Sie bitte das Fenster! (kibar emir)", "secenekler": ["Mach", "Macht", "Machen", "Machst"], "dogru": 2, "aciklama": "Sie ile emir kipinde mastar hali + Sie kullanılır: Machen Sie!"},
+  {"soru": "Ich habe gestern viel ___.", "secenekler": ["gearbeitet", "arbeiten", "arbeitet", "arbeitete"], "dogru": 0, "aciklama": "'arbeiten' düzenli fiildir, Partizip II: gearbeitet."},
+  {"soru": "___ es regnet, bleibe ich zu Hause.", "secenekler": ["Weil", "Dass", "Wenn", "Ob"], "dogru": 2, "aciklama": "Koşul bildiren bağlaç 'wenn' (eğer/-dığında) kullanılır."},
+  {"soru": "Das ist die Frau, ___ ich gestern getroffen habe.", "secenekler": ["die", "der", "das", "den"], "dogru": 0, "aciklama": "'die Frau' dişil, Akkusativ nesnesi olarak ilgi zamiri de 'die' olur."},
+  {"soru": "Ich ___ letzte Woche keine Zeit.", "secenekler": ["habe", "hatte", "hat", "haben"], "dogru": 1, "aciklama": "'haben' fiilinin Präteritum hali 'ich hatte'dir, geçmiş anlatımda sık kullanılır."},
+  {"soru": "Sie ist die ___ Studentin der Klasse. (en iyi)", "secenekler": ["gute", "bessere", "beste", "besser"], "dogru": 2, "aciklama": "'gut' sıfatının Superlativ hali düzensizdir: gut - besser - beste (am besten)."},
+  {"soru": "Ich muss meinen Vertrag ___.", "secenekler": ["unterschreiben", "unterschrieben", "unterschreibt", "unterschrieb"], "dogru": 0, "aciklama": "Modal fiilden sonra asıl fiil mastar halinde gelir: muss ... unterschreiben."},
+  {"soru": "Wir sind mit ___ Auto gefahren.", "secenekler": ["das", "dem", "den", "der"], "dogru": 1, "aciklama": "'mit' edatı her zaman Dativ ister; 'das Auto' nötr, Dativ'de 'dem' olur."},
+  {"soru": "Ich erinnere ___ nicht an den Termin.", "secenekler": ["mich", "mir", "mein", "ich"], "dogru": 0, "aciklama": "'sich erinnern' refleksif fiildir ve Akkusativ zamir alır: mich."},
+  {"soru": "___ du gestern im Büro warst, habe ich angerufen.", "secenekler": ["Weil", "Als", "Wenn", "Dass"], "dogru": 1, "aciklama": "Geçmişte bir kereye mahsus olayda 'als' bağlacı kullanılır."},
+  {"soru": "Das Problem ist schwieriger, ___ ich dachte.", "secenekler": ["wie", "als", "dass", "so"], "dogru": 1, "aciklama": "Karşılaştırma cümlelerinde 'als' (-den) kullanılır: schwieriger als."}
+]

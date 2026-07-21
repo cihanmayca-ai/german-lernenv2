@@ -1,0 +1,158 @@
+[
+  {
+    "baslik": "Kişi Zamirleri (Personalpronomen)",
+    "aciklama": "Almancada özneyi belirten kişi zamirlerini öğrenmeden fiil çekimi yapılamaz. Türkçedeki 'ben, sen, o...' zamirlerinin karşılıkları şunlardır:",
+    "tablo": [
+      ["ich", "ben"], ["du", "sen"], ["er / sie / es", "o (erkek/kadın/nötr)"],
+      ["wir", "biz"], ["ihr", "siz (samimi çoğul)"], ["sie / Sie", "onlar / siz (resmi)"]
+    ],
+    "notlar": [
+      "'Sie' büyük harfle yazılırsa resmi 'siz' anlamına gelir, her zaman kullanılabilir.",
+      "'du' ve 'ihr' sadece tanıdığınız, samimi olduğunuz kişiler için kullanılır."
+    ],
+    "ornekler": [
+      {"de": "Ich heiße Ahmet.", "tr": "Benim adım Ahmet."},
+      {"de": "Wie heißen Sie?", "tr": "Adınız nedir? (resmi)"}
+    ]
+  },
+  {
+    "baslik": "sein ve haben Fiilleri",
+    "aciklama": "'sein' (olmak) ve 'haben' (sahip olmak) Almancanın en temel iki fiilidir ve düzensiz çekilirler; ezberlemek gerekir.",
+    "tablo": [
+      ["ich bin / ich habe", "ben-im / bende var"],
+      ["du bist / du hast", "sen-sin / sende var"],
+      ["er/sie/es ist / hat", "o'dur / onda var"],
+      ["wir sind / wir haben", "biz-iz / bizde var"],
+      ["ihr seid / ihr habt", "siz-siniz / sizde var"],
+      ["sie/Sie sind / haben", "onlar-dır / onlarda var"]
+    ],
+    "notlar": [
+      "'haben' sahip olmayı, 'sein' ise durum/kimlik bildirir: 'Ich bin müde' (Yorgunum) - 'Ich habe Hunger' (Açım, kelimenin tam anlamıyla 'açlığım var')."
+    ],
+    "ornekler": [
+      {"de": "Ich bin Türke. Ich habe zwei Kinder.", "tr": "Ben Türküm. İki çocuğum var."}
+    ]
+  },
+  {
+    "baslik": "Fiil Çekimi - Präsens (Şimdiki/Geniş Zaman)",
+    "aciklama": "Düzenli fiiller mastar halinin (-en) sonundaki ekin çıkarılıp kişiye göre yeni ek getirilmesiyle çekilir. Örnek fiil: lernen (öğrenmek), kök: lern-",
+    "tablo": [
+      ["ich lerne", "öğreniyorum"], ["du lernst", "öğreniyorsun"], ["er/sie/es lernt", "öğreniyor"],
+      ["wir lernen", "öğreniyoruz"], ["ihr lernt", "öğreniyorsunuz"], ["sie/Sie lernen", "öğreniyorlar/öğreniyorsunuz"]
+    ],
+    "notlar": [
+      "Ekler her zaman böyledir: -e, -st, -t, -en, -t, -en.",
+      "Kökü 's, ß, z' ile biten fiillerde 'du' halinde sadece '-t' eklenir: du heißt (heiß + t)."
+    ],
+    "ornekler": [
+      {"de": "Wir wohnen in Istanbul.", "tr": "İstanbul'da oturuyoruz."},
+      {"de": "Sprichst du Deutsch?", "tr": "Almanca konuşuyor musun?"}
+    ]
+  },
+  {
+    "baslik": "Belirli ve Belirsiz Artikeller",
+    "aciklama": "Almancada her isim bir cinsiyete sahiptir: der (eril), die (dişil), das (nötr). Bu, Türkçede karşılığı olmayan ama ezberlenmesi gereken bir kuraldır - her yeni kelimeyi artikeliyle birlikte öğrenin.",
+    "tablo": [
+      ["der Mann (belirli, eril)", "ein Mann (belirsiz, eril)"],
+      ["die Frau (belirli, dişil)", "eine Frau (belirsiz, dişil)"],
+      ["das Kind (belirli, nötr)", "ein Kind (belirsiz, nötr)"],
+      ["die Kinder (çoğul, her cins)", "- (çoğulda belirsiz artikel yok)"]
+    ],
+    "notlar": [
+      "Çoğul isimlerin hepsi 'die' alır: die Männer, die Frauen, die Kinder.",
+      "Bir ismin cinsiyetini tahmin etmenin kesin bir yolu yoktur; kelimeyle birlikte ezberlemek en sağlamıdır."
+    ],
+    "ornekler": [
+      {"de": "Das ist ein Haus. Das Haus ist groß.", "tr": "Bu bir ev. Ev büyük."}
+    ]
+  },
+  {
+    "baslik": "Akkusativ (Belirtme Hali) - Temeller",
+    "aciklama": "Cümlede doğrudan nesneyi (kimi/neyi) belirtmek için kullanılır. Sadece 'der' (eril) artikeli Akkusativ'de değişir, diğerleri aynı kalır.",
+    "tablo": [
+      ["der -> den", "Ich sehe den Mann. (Adamı görüyorum.)"],
+      ["die -> die", "Ich sehe die Frau. (Kadını görüyorum.)"],
+      ["das -> das", "Ich sehe das Kind. (Çocuğu görüyorum.)"],
+      ["ein -> einen", "Ich habe einen Bruder. (Bir erkek kardeşim var.)"]
+    ],
+    "notlar": [
+      "'wen' (kimi) ve 'was' (neyi) sorularıyla Akkusativ nesnesi bulunur."
+    ],
+    "ornekler": [
+      {"de": "Ich kaufe einen Apfel.", "tr": "Bir elma satın alıyorum."}
+    ]
+  },
+  {
+    "baslik": "Olumsuzluk: nicht ve kein",
+    "aciklama": "'nicht' fiilleri, sıfatları ve belirli isimleri olumsuzlar; 'kein' ise 'ein' ile kullanılan veya artikelsiz isimleri olumsuzlar.",
+    "tablo": [
+      ["nicht", "fiil/sıfat olumsuzlanır: Ich arbeite nicht."],
+      ["kein/keine", "isim olumsuzlanır: Ich habe kein Auto."]
+    ],
+    "notlar": [
+      "'kein' de tıpkı 'ein' gibi cinsiyete göre çekilir: kein (eril/nötr), keine (dişil/çoğul)."
+    ],
+    "ornekler": [
+      {"de": "Das ist nicht richtig.", "tr": "Bu doğru değil."},
+      {"de": "Ich habe keine Zeit.", "tr": "Vaktim yok."}
+    ]
+  },
+  {
+    "baslik": "Soru Cümleleri",
+    "aciklama": "İki tür soru vardır: W-Fragen (soru kelimesiyle başlayan) ve Ja/Nein-Fragen (evet/hayır soruları, fiille başlar).",
+    "tablo": [
+      ["wer", "kim"], ["was", "ne"], ["wo", "nerede"], ["wann", "ne zaman"],
+      ["warum", "neden"], ["wie", "nasıl"], ["wie viel", "ne kadar"]
+    ],
+    "notlar": [
+      "W-Fragen: Soru kelimesi + fiil + özne...  örn: Wo wohnst du?",
+      "Ja/Nein-Fragen: Fiil cümlenin başına gelir. örn: Wohnst du in Berlin?"
+    ],
+    "ornekler": [
+      {"de": "Woher kommst du?", "tr": "Nerelisin?"},
+      {"de": "Kommst du aus der Türkei?", "tr": "Türkiye'den mi geliyorsun?"}
+    ]
+  },
+  {
+    "baslik": "Modal Fiiller (können, müssen, wollen, möchten)",
+    "aciklama": "Modal fiiller bir başka fiille birlikte kullanılır; asıl fiil cümle sonuna mastar halinde gider. Modal fiil kişiye göre çekilir.",
+    "tablo": [
+      ["können", "yapabilmek (yetenek/izin)"], ["müssen", "yapmak zorunda olmak"],
+      ["wollen", "istemek"], ["möchten", "istemek (daha kibar)"], ["dürfen", "izinli olmak"]
+    ],
+    "notlar": [
+      "Cümle yapısı: Özne + Modal fiil (2. sırada) + ... + asıl fiil (mastar, cümle sonunda).",
+      "örn: Ich muss heute arbeiten."
+    ],
+    "ornekler": [
+      {"de": "Ich möchte einen Kaffee bestellen.", "tr": "Bir kahve sipariş etmek istiyorum."},
+      {"de": "Wir können morgen kommen.", "tr": "Yarın gelebiliriz."}
+    ]
+  },
+  {
+    "baslik": "İyelik Zamirleri (mein, dein, sein...)",
+    "aciklama": "Türkçedeki '-im, -in, -i' iyelik eklerinin karşılığıdır ve tıpkı 'ein' gibi cinsiyete göre çekilir.",
+    "tablo": [
+      ["mein", "benim"], ["dein", "senin"], ["sein / ihr", "onun (erkek/kadın)"],
+      ["unser", "bizim"], ["euer", "sizin"], ["ihr / Ihr", "onların / sizin (resmi)"]
+    ],
+    "notlar": [
+      "Dişil isimlerde ve çoğulda '-e' eklenir: meine Mutter, meine Kinder."
+    ],
+    "ornekler": [
+      {"de": "Das ist meine Schwester.", "tr": "Bu benim kız kardeşim."}
+    ]
+  },
+  {
+    "baslik": "Sayılar ve Saat Söyleme",
+    "aciklama": "Sayılar Almancada birler basamağı önce söylenir: 21 = einundzwanzig (bir-ve-yirmi). Saat sorarken 'Wie spät ist es?' veya 'Wie viel Uhr ist es?' kullanılır.",
+    "notlar": [
+      "Resmi saat: Es ist vierzehn Uhr dreißig. (14:30)",
+      "Günlük konuşmada: Es ist halb drei. (14:30 - üçe yarım kalıyor mantığıyla, Türkçedeki 'ikibuçuk' değil 'üçün yarısı')"
+    ],
+    "ornekler": [
+      {"de": "Es ist zehn Uhr.", "tr": "Saat on."},
+      {"de": "Es ist Viertel nach acht.", "tr": "Sekizi çeyrek geçiyor."}
+    ]
+  }
+]

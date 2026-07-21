@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz — Almanca Pasaportu</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<main>
+  <div class="page-head">
+    <span class="eyebrow">Sınav Formatı Quiz</span>
+    <h1>Kendinizi test edin</h1>
+    <p class="lead">Sorular Goethe/telc sınav formatına benzer şekilde özgün olarak hazırlanmıştır (gerçek sınav sorularının birebir kopyası değildir). %80 ve üzeri skor o seviyeyi "tamamlandı" sayar.</p>
+  </div>
+
+  <div class="level-tabs">
+    <button data-level="a1">A1</button>
+    <button data-level="a2">A2</button>
+  </div>
+
+  <div class="quiz-stage">
+    <div id="quiz-question-wrap">
+      <div class="quiz-progress" id="quiz-progress"></div>
+      <div class="quiz-question" id="quiz-question"></div>
+      <div class="quiz-options" id="quiz-options"></div>
+      <div class="quiz-explain" id="quiz-explain"></div>
+      <div class="btn-row">
+        <button class="btn" id="quiz-next-btn" style="display:none;">Sonraki Soru →</button>
+      </div>
+    </div>
+    <div class="quiz-result" id="quiz-result" style="display:none;"></div>
+  </div>
+</main>
+
+<footer id="site-footer"></footer>
+
+<script src="js/app.js"></script>
+<script src="js/quiz.js"></script>
+</body>
+</html>

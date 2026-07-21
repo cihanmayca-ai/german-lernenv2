@@ -1,0 +1,1340 @@
+[
+  {
+    "de": "die Erfahrung",
+    "tr": "deneyim",
+    "kategori": "Soyut",
+    "id": "a2-001"
+  },
+  {
+    "de": "die Meinung",
+    "tr": "fikir / görüş",
+    "kategori": "Soyut",
+    "id": "a2-002"
+  },
+  {
+    "de": "die Entscheidung",
+    "tr": "karar",
+    "kategori": "Soyut",
+    "id": "a2-003"
+  },
+  {
+    "de": "der Grund",
+    "tr": "sebep",
+    "kategori": "Soyut",
+    "id": "a2-004"
+  },
+  {
+    "de": "das Problem",
+    "tr": "sorun",
+    "kategori": "Soyut",
+    "id": "a2-005"
+  },
+  {
+    "de": "die Lösung",
+    "tr": "çözüm",
+    "kategori": "Soyut",
+    "id": "a2-006"
+  },
+  {
+    "de": "die Möglichkeit",
+    "tr": "olanak / imkan",
+    "kategori": "Soyut",
+    "id": "a2-007"
+  },
+  {
+    "de": "der Unterschied",
+    "tr": "fark",
+    "kategori": "Soyut",
+    "id": "a2-008"
+  },
+  {
+    "de": "die Ähnlichkeit",
+    "tr": "benzerlik",
+    "kategori": "Soyut",
+    "id": "a2-009"
+  },
+  {
+    "de": "die Regel",
+    "tr": "kural",
+    "kategori": "Soyut",
+    "id": "a2-010"
+  },
+  {
+    "de": "das Ziel",
+    "tr": "hedef",
+    "kategori": "Soyut",
+    "id": "a2-011"
+  },
+  {
+    "de": "der Erfolg",
+    "tr": "başarı",
+    "kategori": "Soyut",
+    "id": "a2-012"
+  },
+  {
+    "de": "der Fortschritt",
+    "tr": "ilerleme",
+    "kategori": "Soyut",
+    "id": "a2-013"
+  },
+  {
+    "de": "die Fähigkeit",
+    "tr": "yetenek",
+    "kategori": "Soyut",
+    "id": "a2-014"
+  },
+  {
+    "de": "die Verantwortung",
+    "tr": "sorumluluk",
+    "kategori": "Soyut",
+    "id": "a2-015"
+  },
+  {
+    "de": "die Ursache",
+    "tr": "sebep/köken",
+    "kategori": "Soyut",
+    "id": "a2-016"
+  },
+  {
+    "de": "die Wirkung",
+    "tr": "etki",
+    "kategori": "Soyut",
+    "id": "a2-017"
+  },
+  {
+    "de": "die Tatsache",
+    "tr": "gerçek/olgu",
+    "kategori": "Soyut",
+    "id": "a2-018"
+  },
+  {
+    "de": "der Zweck",
+    "tr": "amaç",
+    "kategori": "Soyut",
+    "id": "a2-019"
+  },
+  {
+    "de": "die Bedingung",
+    "tr": "koşul",
+    "kategori": "Soyut",
+    "id": "a2-020"
+  },
+  {
+    "de": "die Voraussetzung",
+    "tr": "ön koşul",
+    "kategori": "Soyut",
+    "id": "a2-021"
+  },
+  {
+    "de": "erklären",
+    "tr": "açıklamak",
+    "kategori": "Fiiller",
+    "id": "a2-022"
+  },
+  {
+    "de": "vergleichen",
+    "tr": "karşılaştırmak",
+    "kategori": "Fiiller",
+    "id": "a2-023"
+  },
+  {
+    "de": "vorschlagen",
+    "tr": "önermek",
+    "kategori": "Fiiller",
+    "id": "a2-024"
+  },
+  {
+    "de": "sich entscheiden",
+    "tr": "karar vermek",
+    "kategori": "Fiiller",
+    "id": "a2-025"
+  },
+  {
+    "de": "sich freuen",
+    "tr": "sevinmek",
+    "kategori": "Fiiller",
+    "id": "a2-026"
+  },
+  {
+    "de": "sich ärgern",
+    "tr": "sinirlenmek",
+    "kategori": "Fiiller",
+    "id": "a2-027"
+  },
+  {
+    "de": "sich beeilen",
+    "tr": "acele etmek",
+    "kategori": "Fiiller",
+    "id": "a2-028"
+  },
+  {
+    "de": "sich vorstellen",
+    "tr": "kendini tanıtmak / hayal etmek",
+    "kategori": "Fiiller",
+    "id": "a2-029"
+  },
+  {
+    "de": "einladen",
+    "tr": "davet etmek",
+    "kategori": "Fiiller",
+    "id": "a2-030"
+  },
+  {
+    "de": "vermissen",
+    "tr": "özlemek",
+    "kategori": "Fiiller",
+    "id": "a2-031"
+  },
+  {
+    "de": "erwarten",
+    "tr": "beklemek (ummak)",
+    "kategori": "Fiiller",
+    "id": "a2-032"
+  },
+  {
+    "de": "bemerken",
+    "tr": "fark etmek",
+    "kategori": "Fiiller",
+    "id": "a2-033"
+  },
+  {
+    "de": "empfehlen",
+    "tr": "tavsiye etmek",
+    "kategori": "Fiiller",
+    "id": "a2-034"
+  },
+  {
+    "de": "versuchen",
+    "tr": "denemek",
+    "kategori": "Fiiller",
+    "id": "a2-035"
+  },
+  {
+    "de": "vergessen",
+    "tr": "unutmak",
+    "kategori": "Fiiller",
+    "id": "a2-036"
+  },
+  {
+    "de": "sich erinnern",
+    "tr": "hatırlamak",
+    "kategori": "Fiiller",
+    "id": "a2-037"
+  },
+  {
+    "de": "wechseln",
+    "tr": "değiştirmek",
+    "kategori": "Fiiller",
+    "id": "a2-038"
+  },
+  {
+    "de": "sich verändern",
+    "tr": "değişmek",
+    "kategori": "Fiiller",
+    "id": "a2-039"
+  },
+  {
+    "de": "reparieren",
+    "tr": "tamir etmek",
+    "kategori": "Fiiller",
+    "id": "a2-040"
+  },
+  {
+    "de": "funktionieren",
+    "tr": "çalışmak (işlemek)",
+    "kategori": "Fiiller",
+    "id": "a2-041"
+  },
+  {
+    "de": "gehören",
+    "tr": "ait olmak",
+    "kategori": "Fiiller",
+    "id": "a2-042"
+  },
+  {
+    "de": "mitmachen",
+    "tr": "katılmak (bir etkinliğe)",
+    "kategori": "Fiiller",
+    "id": "a2-043"
+  },
+  {
+    "de": "teilnehmen",
+    "tr": "katılmak (resmi)",
+    "kategori": "Fiiller",
+    "id": "a2-044"
+  },
+  {
+    "de": "vorbereiten",
+    "tr": "hazırlamak",
+    "kategori": "Fiiller",
+    "id": "a2-045"
+  },
+  {
+    "de": "aufräumen",
+    "tr": "toplamak/düzenlemek",
+    "kategori": "Fiiller",
+    "id": "a2-046"
+  },
+  {
+    "de": "zumachen",
+    "tr": "kapatmak",
+    "kategori": "Fiiller",
+    "id": "a2-047"
+  },
+  {
+    "de": "aufmachen",
+    "tr": "açmak",
+    "kategori": "Fiiller",
+    "id": "a2-048"
+  },
+  {
+    "de": "weggehen",
+    "tr": "uzaklaşmak/gitmek",
+    "kategori": "Fiiller",
+    "id": "a2-049"
+  },
+  {
+    "de": "zurückkommen",
+    "tr": "geri gelmek",
+    "kategori": "Fiiller",
+    "id": "a2-050"
+  },
+  {
+    "de": "aufhören",
+    "tr": "durmak/bırakmak",
+    "kategori": "Fiiller",
+    "id": "a2-051"
+  },
+  {
+    "de": "anfangen",
+    "tr": "başlamak",
+    "kategori": "Fiiller",
+    "id": "a2-052"
+  },
+  {
+    "de": "umziehen",
+    "tr": "taşınmak (ev)",
+    "kategori": "Fiiller",
+    "id": "a2-053"
+  },
+  {
+    "de": "der Vertrag",
+    "tr": "sözleşme",
+    "kategori": "İş/Resmi",
+    "id": "a2-054"
+  },
+  {
+    "de": "die Bewerbung",
+    "tr": "iş başvurusu",
+    "kategori": "İş/Resmi",
+    "id": "a2-055"
+  },
+  {
+    "de": "der Termin",
+    "tr": "randevu",
+    "kategori": "İş/Resmi",
+    "id": "a2-056"
+  },
+  {
+    "de": "das Formular",
+    "tr": "form (belge)",
+    "kategori": "İş/Resmi",
+    "id": "a2-057"
+  },
+  {
+    "de": "die Unterschrift",
+    "tr": "imza",
+    "kategori": "İş/Resmi",
+    "id": "a2-058"
+  },
+  {
+    "de": "die Anmeldung",
+    "tr": "kayıt / bildirim",
+    "kategori": "İş/Resmi",
+    "id": "a2-059"
+  },
+  {
+    "de": "die Kündigung",
+    "tr": "fesih / işten çıkma",
+    "kategori": "İş/Resmi",
+    "id": "a2-060"
+  },
+  {
+    "de": "das Gehalt",
+    "tr": "maaş",
+    "kategori": "İş/Resmi",
+    "id": "a2-061"
+  },
+  {
+    "de": "die Rechnung",
+    "tr": "fatura",
+    "kategori": "İş/Resmi",
+    "id": "a2-062"
+  },
+  {
+    "de": "die Versicherung",
+    "tr": "sigorta",
+    "kategori": "İş/Resmi",
+    "id": "a2-063"
+  },
+  {
+    "de": "der Kollege",
+    "tr": "iş arkadaşı (erkek)",
+    "kategori": "İş/Resmi",
+    "id": "a2-064"
+  },
+  {
+    "de": "die Kollegin",
+    "tr": "iş arkadaşı (kadın)",
+    "kategori": "İş/Resmi",
+    "id": "a2-065"
+  },
+  {
+    "de": "der Chef",
+    "tr": "patron",
+    "kategori": "İş/Resmi",
+    "id": "a2-066"
+  },
+  {
+    "de": "die Besprechung",
+    "tr": "toplantı",
+    "kategori": "İş/Resmi",
+    "id": "a2-067"
+  },
+  {
+    "de": "der Urlaub",
+    "tr": "tatil (izin)",
+    "kategori": "İş/Resmi",
+    "id": "a2-068"
+  },
+  {
+    "de": "die Firma",
+    "tr": "şirket",
+    "kategori": "İş/Resmi",
+    "id": "a2-069"
+  },
+  {
+    "de": "die Abteilung",
+    "tr": "departman",
+    "kategori": "İş/Resmi",
+    "id": "a2-070"
+  },
+  {
+    "de": "der Mitarbeiter",
+    "tr": "çalışan",
+    "kategori": "İş/Resmi",
+    "id": "a2-071"
+  },
+  {
+    "de": "das Projekt",
+    "tr": "proje",
+    "kategori": "İş/Resmi",
+    "id": "a2-072"
+  },
+  {
+    "de": "die Karriere",
+    "tr": "kariyer",
+    "kategori": "İş/Resmi",
+    "id": "a2-073"
+  },
+  {
+    "de": "sich bewerben",
+    "tr": "başvurmak (işe)",
+    "kategori": "İş/Resmi",
+    "id": "a2-074"
+  },
+  {
+    "de": "das Vorstellungsgespräch",
+    "tr": "iş görüşmesi",
+    "kategori": "İş/Resmi",
+    "id": "a2-075"
+  },
+  {
+    "de": "die Miete",
+    "tr": "kira",
+    "kategori": "İş/Resmi",
+    "id": "a2-076"
+  },
+  {
+    "de": "der Vermieter",
+    "tr": "ev sahibi (kiraya veren)",
+    "kategori": "İş/Resmi",
+    "id": "a2-077"
+  },
+  {
+    "de": "der Mieter",
+    "tr": "kiracı",
+    "kategori": "İş/Resmi",
+    "id": "a2-078"
+  },
+  {
+    "de": "renovieren",
+    "tr": "tadilat yapmak",
+    "kategori": "İş/Resmi",
+    "id": "a2-079"
+  },
+  {
+    "de": "die Nachricht",
+    "tr": "mesaj / haber",
+    "kategori": "İletişim",
+    "id": "a2-080"
+  },
+  {
+    "de": "das Gespräch",
+    "tr": "konuşma / sohbet",
+    "kategori": "İletişim",
+    "id": "a2-081"
+  },
+  {
+    "de": "die Antwort",
+    "tr": "cevap",
+    "kategori": "İletişim",
+    "id": "a2-082"
+  },
+  {
+    "de": "die Frage",
+    "tr": "soru",
+    "kategori": "İletişim",
+    "id": "a2-083"
+  },
+  {
+    "de": "das Missverständnis",
+    "tr": "yanlış anlama",
+    "kategori": "İletişim",
+    "id": "a2-084"
+  },
+  {
+    "de": "die Einladung",
+    "tr": "davetiye",
+    "kategori": "İletişim",
+    "id": "a2-085"
+  },
+  {
+    "de": "die E-Mail",
+    "tr": "e-posta",
+    "kategori": "İletişim",
+    "id": "a2-086"
+  },
+  {
+    "de": "das Handy",
+    "tr": "cep telefonu",
+    "kategori": "İletişim",
+    "id": "a2-087"
+  },
+  {
+    "de": "der Anruf",
+    "tr": "telefon araması",
+    "kategori": "İletişim",
+    "id": "a2-088"
+  },
+  {
+    "de": "die Website",
+    "tr": "web sitesi",
+    "kategori": "Teknoloji",
+    "id": "a2-089"
+  },
+  {
+    "de": "die App",
+    "tr": "uygulama",
+    "kategori": "Teknoloji",
+    "id": "a2-090"
+  },
+  {
+    "de": "das Passwort",
+    "tr": "şifre",
+    "kategori": "Teknoloji",
+    "id": "a2-091"
+  },
+  {
+    "de": "der Bildschirm",
+    "tr": "ekran",
+    "kategori": "Teknoloji",
+    "id": "a2-092"
+  },
+  {
+    "de": "die Datei",
+    "tr": "dosya",
+    "kategori": "Teknoloji",
+    "id": "a2-093"
+  },
+  {
+    "de": "herunterladen",
+    "tr": "indirmek (dosya)",
+    "kategori": "Teknoloji",
+    "id": "a2-094"
+  },
+  {
+    "de": "hochladen",
+    "tr": "yüklemek (dosya)",
+    "kategori": "Teknoloji",
+    "id": "a2-095"
+  },
+  {
+    "de": "speichern",
+    "tr": "kaydetmek",
+    "kategori": "Teknoloji",
+    "id": "a2-096"
+  },
+  {
+    "de": "drucken",
+    "tr": "yazdırmak",
+    "kategori": "Teknoloji",
+    "id": "a2-097"
+  },
+  {
+    "de": "die Software",
+    "tr": "yazılım",
+    "kategori": "Teknoloji",
+    "id": "a2-098"
+  },
+  {
+    "de": "der Müll",
+    "tr": "çöp",
+    "kategori": "Çevre",
+    "id": "a2-099"
+  },
+  {
+    "de": "recyceln",
+    "tr": "geri dönüştürmek",
+    "kategori": "Çevre",
+    "id": "a2-100"
+  },
+  {
+    "de": "die Energie",
+    "tr": "enerji",
+    "kategori": "Çevre",
+    "id": "a2-101"
+  },
+  {
+    "de": "erneuerbar",
+    "tr": "yenilenebilir",
+    "kategori": "Çevre",
+    "id": "a2-102"
+  },
+  {
+    "de": "der Klimawandel",
+    "tr": "iklim değişikliği",
+    "kategori": "Çevre",
+    "id": "a2-103"
+  },
+  {
+    "de": "die Verschmutzung",
+    "tr": "kirlilik",
+    "kategori": "Çevre",
+    "id": "a2-104"
+  },
+  {
+    "de": "sparen",
+    "tr": "tasarruf etmek",
+    "kategori": "Çevre",
+    "id": "a2-105"
+  },
+  {
+    "de": "die Natur",
+    "tr": "doğa",
+    "kategori": "Çevre",
+    "id": "a2-106"
+  },
+  {
+    "de": "die Erkältung",
+    "tr": "soğuk algınlığı",
+    "kategori": "Sağlık",
+    "id": "a2-107"
+  },
+  {
+    "de": "das Fieber",
+    "tr": "ateş (hastalık)",
+    "kategori": "Sağlık",
+    "id": "a2-108"
+  },
+  {
+    "de": "der Schmerz",
+    "tr": "ağrı",
+    "kategori": "Sağlık",
+    "id": "a2-109"
+  },
+  {
+    "de": "die Tablette",
+    "tr": "hap",
+    "kategori": "Sağlık",
+    "id": "a2-110"
+  },
+  {
+    "de": "die Behandlung",
+    "tr": "tedavi",
+    "kategori": "Sağlık",
+    "id": "a2-111"
+  },
+  {
+    "de": "sich erholen",
+    "tr": "iyileşmek/dinlenmek",
+    "kategori": "Sağlık",
+    "id": "a2-112"
+  },
+  {
+    "de": "die Sprechstunde",
+    "tr": "muayene saati",
+    "kategori": "Sağlık",
+    "id": "a2-113"
+  },
+  {
+    "de": "traurig",
+    "tr": "üzgün",
+    "kategori": "Duygular",
+    "id": "a2-114"
+  },
+  {
+    "de": "glücklich",
+    "tr": "mutlu",
+    "kategori": "Duygular",
+    "id": "a2-115"
+  },
+  {
+    "de": "wütend",
+    "tr": "öfkeli",
+    "kategori": "Duygular",
+    "id": "a2-116"
+  },
+  {
+    "de": "müde",
+    "tr": "yorgun",
+    "kategori": "Duygular",
+    "id": "a2-117"
+  },
+  {
+    "de": "gestresst",
+    "tr": "stresli",
+    "kategori": "Duygular",
+    "id": "a2-118"
+  },
+  {
+    "de": "aufgeregt",
+    "tr": "heyecanlı",
+    "kategori": "Duygular",
+    "id": "a2-119"
+  },
+  {
+    "de": "enttäuscht",
+    "tr": "hayal kırıklığına uğramış",
+    "kategori": "Duygular",
+    "id": "a2-120"
+  },
+  {
+    "de": "überrascht",
+    "tr": "şaşırmış",
+    "kategori": "Duygular",
+    "id": "a2-121"
+  },
+  {
+    "de": "neidisch",
+    "tr": "kıskanç",
+    "kategori": "Duygular",
+    "id": "a2-122"
+  },
+  {
+    "de": "stolz",
+    "tr": "gururlu",
+    "kategori": "Duygular",
+    "id": "a2-123"
+  },
+  {
+    "de": "verliebt",
+    "tr": "aşık",
+    "kategori": "Duygular",
+    "id": "a2-124"
+  },
+  {
+    "de": "gelangweilt",
+    "tr": "sıkılmış",
+    "kategori": "Duygular",
+    "id": "a2-125"
+  },
+  {
+    "de": "obwohl",
+    "tr": "-e rağmen (bağlaç)",
+    "kategori": "Bağlaçlar",
+    "id": "a2-126"
+  },
+  {
+    "de": "deshalb",
+    "tr": "bu yüzden",
+    "kategori": "Bağlaçlar",
+    "id": "a2-127"
+  },
+  {
+    "de": "trotzdem",
+    "tr": "yine de",
+    "kategori": "Bağlaçlar",
+    "id": "a2-128"
+  },
+  {
+    "de": "außerdem",
+    "tr": "ayrıca",
+    "kategori": "Bağlaçlar",
+    "id": "a2-129"
+  },
+  {
+    "de": "während",
+    "tr": "-iken / süresince",
+    "kategori": "Bağlaçlar",
+    "id": "a2-130"
+  },
+  {
+    "de": "sobald",
+    "tr": "-er -mez",
+    "kategori": "Bağlaçlar",
+    "id": "a2-131"
+  },
+  {
+    "de": "falls",
+    "tr": "eğer, olur da",
+    "kategori": "Bağlaçlar",
+    "id": "a2-132"
+  },
+  {
+    "de": "jedoch",
+    "tr": "ancak/fakat",
+    "kategori": "Bağlaçlar",
+    "id": "a2-133"
+  },
+  {
+    "de": "allerdings",
+    "tr": "gerçi/yine de",
+    "kategori": "Bağlaçlar",
+    "id": "a2-134"
+  },
+  {
+    "de": "dennoch",
+    "tr": "buna rağmen",
+    "kategori": "Bağlaçlar",
+    "id": "a2-135"
+  },
+  {
+    "de": "insgesamt",
+    "tr": "toplamda",
+    "kategori": "Bağlaçlar",
+    "id": "a2-136"
+  },
+  {
+    "de": "schließlich",
+    "tr": "sonunda/nihayetinde",
+    "kategori": "Bağlaçlar",
+    "id": "a2-137"
+  },
+  {
+    "de": "zunächst",
+    "tr": "öncelikle",
+    "kategori": "Bağlaçlar",
+    "id": "a2-138"
+  },
+  {
+    "de": "inzwischen",
+    "tr": "bu arada",
+    "kategori": "Bağlaçlar",
+    "id": "a2-139"
+  },
+  {
+    "de": "außer",
+    "tr": "dışında",
+    "kategori": "Bağlaçlar",
+    "id": "a2-140"
+  },
+  {
+    "de": "die Umwelt",
+    "tr": "çevre (doğal)",
+    "kategori": "Toplum",
+    "id": "a2-141"
+  },
+  {
+    "de": "die Gesellschaft",
+    "tr": "toplum",
+    "kategori": "Toplum",
+    "id": "a2-142"
+  },
+  {
+    "de": "die Politik",
+    "tr": "siyaset",
+    "kategori": "Toplum",
+    "id": "a2-143"
+  },
+  {
+    "de": "die Wirtschaft",
+    "tr": "ekonomi",
+    "kategori": "Toplum",
+    "id": "a2-144"
+  },
+  {
+    "de": "die Kultur",
+    "tr": "kültür",
+    "kategori": "Toplum",
+    "id": "a2-145"
+  },
+  {
+    "de": "die Tradition",
+    "tr": "gelenek",
+    "kategori": "Toplum",
+    "id": "a2-146"
+  },
+  {
+    "de": "die Nachbarschaft",
+    "tr": "mahalle / komşuluk",
+    "kategori": "Toplum",
+    "id": "a2-147"
+  },
+  {
+    "de": "der Nachbar",
+    "tr": "komşu",
+    "kategori": "Toplum",
+    "id": "a2-148"
+  },
+  {
+    "de": "das Gesetz",
+    "tr": "kanun",
+    "kategori": "Toplum",
+    "id": "a2-149"
+  },
+  {
+    "de": "die Sicherheit",
+    "tr": "güvenlik",
+    "kategori": "Toplum",
+    "id": "a2-150"
+  },
+  {
+    "de": "die Generation",
+    "tr": "nesil",
+    "kategori": "Toplum",
+    "id": "a2-151"
+  },
+  {
+    "de": "die Integration",
+    "tr": "entegrasyon/uyum",
+    "kategori": "Toplum",
+    "id": "a2-152"
+  },
+  {
+    "de": "die Sprache",
+    "tr": "dil",
+    "kategori": "Toplum",
+    "id": "a2-153"
+  },
+  {
+    "de": "mehrsprachig",
+    "tr": "çok dilli",
+    "kategori": "Toplum",
+    "id": "a2-154"
+  },
+  {
+    "de": "die Muttersprache",
+    "tr": "anadil",
+    "kategori": "Toplum",
+    "id": "a2-155"
+  },
+  {
+    "de": "gefährlich",
+    "tr": "tehlikeli",
+    "kategori": "Sıfatlar",
+    "id": "a2-156"
+  },
+  {
+    "de": "sicher",
+    "tr": "güvenli / emin",
+    "kategori": "Sıfatlar",
+    "id": "a2-157"
+  },
+  {
+    "de": "wichtig",
+    "tr": "önemli",
+    "kategori": "Sıfatlar",
+    "id": "a2-158"
+  },
+  {
+    "de": "notwendig",
+    "tr": "gerekli",
+    "kategori": "Sıfatlar",
+    "id": "a2-159"
+  },
+  {
+    "de": "möglich",
+    "tr": "mümkün",
+    "kategori": "Sıfatlar",
+    "id": "a2-160"
+  },
+  {
+    "de": "unmöglich",
+    "tr": "imkansız",
+    "kategori": "Sıfatlar",
+    "id": "a2-161"
+  },
+  {
+    "de": "bequem",
+    "tr": "rahat (konforlu)",
+    "kategori": "Sıfatlar",
+    "id": "a2-162"
+  },
+  {
+    "de": "praktisch",
+    "tr": "pratik",
+    "kategori": "Sıfatlar",
+    "id": "a2-163"
+  },
+  {
+    "de": "typisch",
+    "tr": "tipik",
+    "kategori": "Sıfatlar",
+    "id": "a2-164"
+  },
+  {
+    "de": "besonders",
+    "tr": "özellikle / özel",
+    "kategori": "Sıfatlar",
+    "id": "a2-165"
+  },
+  {
+    "de": "freundlich",
+    "tr": "arkadaş canlısı",
+    "kategori": "Sıfatlar",
+    "id": "a2-166"
+  },
+  {
+    "de": "höflich",
+    "tr": "kibar",
+    "kategori": "Sıfatlar",
+    "id": "a2-167"
+  },
+  {
+    "de": "ehrlich",
+    "tr": "dürüst",
+    "kategori": "Sıfatlar",
+    "id": "a2-168"
+  },
+  {
+    "de": "geduldig",
+    "tr": "sabırlı",
+    "kategori": "Sıfatlar",
+    "id": "a2-169"
+  },
+  {
+    "de": "pünktlich",
+    "tr": "dakik / zamanında",
+    "kategori": "Sıfatlar",
+    "id": "a2-170"
+  },
+  {
+    "de": "zufrieden",
+    "tr": "memnun",
+    "kategori": "Sıfatlar",
+    "id": "a2-171"
+  },
+  {
+    "de": "aktuell",
+    "tr": "güncel",
+    "kategori": "Sıfatlar",
+    "id": "a2-172"
+  },
+  {
+    "de": "ausführlich",
+    "tr": "ayrıntılı",
+    "kategori": "Sıfatlar",
+    "id": "a2-173"
+  },
+  {
+    "de": "üblich",
+    "tr": "olağan/mutat",
+    "kategori": "Sıfatlar",
+    "id": "a2-174"
+  },
+  {
+    "de": "selbstständig",
+    "tr": "bağımsız/kendi işini yapan",
+    "kategori": "Sıfatlar",
+    "id": "a2-175"
+  },
+  {
+    "de": "zuverlässig",
+    "tr": "güvenilir",
+    "kategori": "Sıfatlar",
+    "id": "a2-176"
+  },
+  {
+    "de": "flexibel",
+    "tr": "esnek",
+    "kategori": "Sıfatlar",
+    "id": "a2-177"
+  },
+  {
+    "de": "kreativ",
+    "tr": "yaratıcı",
+    "kategori": "Sıfatlar",
+    "id": "a2-178"
+  },
+  {
+    "de": "erfahren",
+    "tr": "deneyimli",
+    "kategori": "Sıfatlar",
+    "id": "a2-179"
+  },
+  {
+    "de": "die Ausbildung",
+    "tr": "mesleki eğitim",
+    "kategori": "Eğitim",
+    "id": "a2-180"
+  },
+  {
+    "de": "die Prüfung",
+    "tr": "sınav",
+    "kategori": "Eğitim",
+    "id": "a2-181"
+  },
+  {
+    "de": "das Zeugnis",
+    "tr": "karne / belge",
+    "kategori": "Eğitim",
+    "id": "a2-182"
+  },
+  {
+    "de": "die Note",
+    "tr": "not (okul)",
+    "kategori": "Eğitim",
+    "id": "a2-183"
+  },
+  {
+    "de": "der Kurs",
+    "tr": "kurs",
+    "kategori": "Eğitim",
+    "id": "a2-184"
+  },
+  {
+    "de": "die Übung",
+    "tr": "alıştırma",
+    "kategori": "Eğitim",
+    "id": "a2-185"
+  },
+  {
+    "de": "der Fehler",
+    "tr": "hata",
+    "kategori": "Eğitim",
+    "id": "a2-186"
+  },
+  {
+    "de": "die Aufgabe",
+    "tr": "görev / ödev",
+    "kategori": "Eğitim",
+    "id": "a2-187"
+  },
+  {
+    "de": "die Reise",
+    "tr": "seyahat",
+    "kategori": "Seyahat",
+    "id": "a2-188"
+  },
+  {
+    "de": "das Gepäck",
+    "tr": "bagaj",
+    "kategori": "Seyahat",
+    "id": "a2-189"
+  },
+  {
+    "de": "die Unterkunft",
+    "tr": "konaklama",
+    "kategori": "Seyahat",
+    "id": "a2-190"
+  },
+  {
+    "de": "die Grenze",
+    "tr": "sınır",
+    "kategori": "Seyahat",
+    "id": "a2-191"
+  },
+  {
+    "de": "der Ausweis",
+    "tr": "kimlik kartı",
+    "kategori": "Seyahat",
+    "id": "a2-192"
+  },
+  {
+    "de": "die Verspätung",
+    "tr": "gecikme",
+    "kategori": "Seyahat",
+    "id": "a2-193"
+  },
+  {
+    "de": "buchen",
+    "tr": "rezervasyon yapmak",
+    "kategori": "Seyahat",
+    "id": "a2-194"
+  },
+  {
+    "de": "die Sehenswürdigkeit",
+    "tr": "gezilecek yer",
+    "kategori": "Seyahat",
+    "id": "a2-195"
+  },
+  {
+    "de": "die Landschaft",
+    "tr": "manzara/peyzaj",
+    "kategori": "Seyahat",
+    "id": "a2-196"
+  },
+  {
+    "de": "der Ausflug",
+    "tr": "gezi (kısa)",
+    "kategori": "Seyahat",
+    "id": "a2-197"
+  },
+  {
+    "de": "übernachten",
+    "tr": "gecelemek",
+    "kategori": "Seyahat",
+    "id": "a2-198"
+  },
+  {
+    "de": "die Reservierung",
+    "tr": "rezervasyon",
+    "kategori": "Seyahat",
+    "id": "a2-199"
+  },
+  {
+    "de": "abholen",
+    "tr": "almaya gitmek (karşılamak)",
+    "kategori": "Fiiller",
+    "id": "a2-200"
+  },
+  {
+    "de": "verpassen",
+    "tr": "kaçırmak (aracı vs.)",
+    "kategori": "Fiiller",
+    "id": "a2-201"
+  },
+  {
+    "de": "ankommen",
+    "tr": "varmak",
+    "kategori": "Fiiller",
+    "id": "a2-202"
+  },
+  {
+    "de": "abfahren",
+    "tr": "hareket etmek (yola çıkmak)",
+    "kategori": "Fiiller",
+    "id": "a2-203"
+  },
+  {
+    "de": "umsteigen",
+    "tr": "aktarma yapmak",
+    "kategori": "Fiiller",
+    "id": "a2-204"
+  },
+  {
+    "de": "die Kasse",
+    "tr": "kasa (mağaza)",
+    "kategori": "Alışveriş",
+    "id": "a2-205"
+  },
+  {
+    "de": "der Kunde",
+    "tr": "müşteri",
+    "kategori": "Alışveriş",
+    "id": "a2-206"
+  },
+  {
+    "de": "die Ware",
+    "tr": "ürün/mal",
+    "kategori": "Alışveriş",
+    "id": "a2-207"
+  },
+  {
+    "de": "umtauschen",
+    "tr": "değiştirmek (ürün)",
+    "kategori": "Alışveriş",
+    "id": "a2-208"
+  },
+  {
+    "de": "der Rabatt",
+    "tr": "indirim",
+    "kategori": "Alışveriş",
+    "id": "a2-209"
+  },
+  {
+    "de": "die Größe",
+    "tr": "beden (kıyafet)",
+    "kategori": "Alışveriş",
+    "id": "a2-210"
+  },
+  {
+    "de": "anprobieren",
+    "tr": "prova etmek (giysi)",
+    "kategori": "Alışveriş",
+    "id": "a2-211"
+  },
+  {
+    "de": "das Angebot",
+    "tr": "teklif/kampanya",
+    "kategori": "Alışveriş",
+    "id": "a2-212"
+  },
+  {
+    "de": "die Vergangenheit",
+    "tr": "geçmiş",
+    "kategori": "Zaman",
+    "id": "a2-213"
+  },
+  {
+    "de": "die Zukunft",
+    "tr": "gelecek",
+    "kategori": "Zaman",
+    "id": "a2-214"
+  },
+  {
+    "de": "die Gegenwart",
+    "tr": "şimdiki zaman",
+    "kategori": "Zaman",
+    "id": "a2-215"
+  },
+  {
+    "de": "demnächst",
+    "tr": "yakında",
+    "kategori": "Zaman",
+    "id": "a2-216"
+  },
+  {
+    "de": "kürzlich",
+    "tr": "kısa süre önce",
+    "kategori": "Zaman",
+    "id": "a2-217"
+  },
+  {
+    "de": "neulich",
+    "tr": "geçenlerde",
+    "kategori": "Zaman",
+    "id": "a2-218"
+  },
+  {
+    "de": "ungefähr",
+    "tr": "yaklaşık",
+    "kategori": "Ölçü",
+    "id": "a2-219"
+  },
+  {
+    "de": "mindestens",
+    "tr": "en az",
+    "kategori": "Ölçü",
+    "id": "a2-220"
+  },
+  {
+    "de": "höchstens",
+    "tr": "en fazla",
+    "kategori": "Ölçü",
+    "id": "a2-221"
+  },
+  {
+    "de": "die Menge",
+    "tr": "miktar",
+    "kategori": "Ölçü",
+    "id": "a2-222"
+  },
+  {
+    "de": "das Prozent",
+    "tr": "yüzde",
+    "kategori": "Ölçü",
+    "id": "a2-223"
+  }
+]

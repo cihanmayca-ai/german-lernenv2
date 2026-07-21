@@ -1,0 +1,22 @@
+[
+  {"soru": "Ich ___ Ahmet.", "secenekler": ["heißt", "heiße", "heißen", "heißst"], "dogru": 1, "aciklama": "'ich' ile fiil '-e' eki alır: ich heiße."},
+  {"soru": "___ kommst du?", "secenekler": ["Wo", "Wer", "Woher", "Was"], "dogru": 2, "aciklama": "'Nereden' anlamı için 'Woher' kullanılır."},
+  {"soru": "Das ist ___ Haus.", "secenekler": ["der", "die", "das", "den"], "dogru": 2, "aciklama": "'Haus' nötr bir kelimedir, artikeli 'das'tır."},
+  {"soru": "Wir ___ zwei Kinder.", "secenekler": ["sind", "haben", "hat", "bin"], "dogru": 1, "aciklama": "Sahip olmak için 'haben' kullanılır, 'wir' ile 'haben'."},
+  {"soru": "Ich habe ___ Bruder.", "secenekler": ["ein", "eine", "einen", "der"], "dogru": 2, "aciklama": "'der Bruder' Akkusativ'de 'einen' olur."},
+  {"soru": "___ ist es? - Es ist zehn Uhr.", "secenekler": ["Wie spät", "Wie viel", "Wo", "Wann"], "dogru": 0, "aciklama": "Saati sormak için 'Wie spät ist es?' kullanılır."},
+  {"soru": "Ich ___ heute nicht arbeiten.", "secenekler": ["kann", "kannst", "könnt", "können"], "dogru": 0, "aciklama": "'ich' ile modal fiil 'kann' olur."},
+  {"soru": "Das ist ___ Schwester. (benim)", "secenekler": ["mein", "meine", "meinen", "meins"], "dogru": 1, "aciklama": "'die Schwester' dişil olduğu için 'meine' kullanılır."},
+  {"soru": "Ich habe ___ Zeit.", "secenekler": ["nicht", "kein", "keine", "keinen"], "dogru": 2, "aciklama": "'die Zeit' dişil isim, olumsuzlukta 'keine' kullanılır."},
+  {"soru": "___ du Deutsch?", "secenekler": ["Sprichst", "Spreche", "Sprecht", "Sprechen"], "dogru": 0, "aciklama": "'sprechen' fiili 'du' ile ünlü değişimi yaşar: du sprichst."},
+  {"soru": "Der Kaffee ___ drei Euro.", "secenekler": ["kostet", "koste", "kosten", "kostest"], "dogru": 0, "aciklama": "3. tekil şahıs için '-et' eki: er/es/das kostet."},
+  {"soru": "Ich gehe ___ Schule.", "secenekler": ["im", "in die", "in dem", "im die"], "dogru": 1, "aciklama": "Hareket bildiren 'nereye' sorusunda Akkusativ kullanılır: in die Schule."},
+  {"soru": "Wir ___ am Montag frei.", "secenekler": ["hat", "habe", "haben", "hast"], "dogru": 2, "aciklama": "'wir' ile 'haben' fiili çekilir: wir haben."},
+  {"soru": "___ heißen Sie? - Ich heiße Frau Yılmaz.", "secenekler": ["Wer", "Wie", "Was", "Wo"], "dogru": 1, "aciklama": "İsim sormak için 'Wie heißen Sie?' kalıbı kullanılır."},
+  {"soru": "Er ___ jeden Tag Deutsch.", "secenekler": ["lerne", "lernst", "lernt", "lernen"], "dogru": 2, "aciklama": "3. tekil şahısta '-t' eki gelir: er lernt."},
+  {"soru": "Das Auto ist sehr ___. (pahalı)", "secenekler": ["billig", "teuer", "schnell", "klein"], "dogru": 1, "aciklama": "'teuer' pahalı demektir, 'billig' ise ucuz."},
+  {"soru": "Ich trinke gern ___ Tee.", "secenekler": ["der", "die", "das", "-"], "dogru": 3, "aciklama": "Genel/belirsiz miktar bildiren isimlerde artikel kullanılmaz: Ich trinke Tee."},
+  {"soru": "Wo wohnst ___?", "secenekler": ["du", "dich", "dir", "dein"], "dogru": 0, "aciklama": "Özne konumunda 'du' zamiri kullanılır."},
+  {"soru": "___ Bitte, wo ist der Bahnhof?", "secenekler": ["Danke", "Entschuldigung", "Tschüss", "Hallo"], "dogru": 1, "aciklama": "Bir şey sormadan önce nezaketen 'Entschuldigung' (affedersiniz) denir."},
+  {"soru": "Ich möchte einen Kaffee ___.", "secenekler": ["bestellen", "bestellt", "bestellst", "bestellte"], "dogru": 0, "aciklama": "Modal fiilden sonra asıl fiil mastar (Infinitiv) halinde cümle sonuna gelir."}
+]
